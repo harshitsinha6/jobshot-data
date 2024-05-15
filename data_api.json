@@ -1,0 +1,2365 @@
+{
+    "data": [
+                {
+            "company_name": "ServiceNow ",
+            "position": "Software Engineer , Core","req_experience": "2 - 3 year",
+            "link": "https://careers.servicenow.com/en/jobs/743999987392374/software-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+            "company_logo": "assets/gifs/servicenow.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Hyderabad, India",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Company Description",
+                    "value": [
+                        "At ServiceNow, our technology makes the world work for everyone, and our people make it possible. We move fast because the world can’t wait, and we innovate in ways no one else can for our customers and communities. By joining ServiceNow, you are part of an ambitious team of change makers who have a restless curiosity and a drive for ingenuity. We know that your best work happens when you live your best life and share your unique talents, so we do everything we can to make that possible. We dream big together, supporting each other to make our individual and collective dreams come true. The future is ours, and it starts with you.",
+                        "With more than 7,700+ customers, we serve approximately 85% of the Fortune 500®, and we're proud to be one of FORTUNE 100 Best Companies to Work For® and World's Most Admired Companies™.",
+                        "Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.",
+                        "Unsure if you meet all the qualifications of a job description but are deeply excited about the role? We still encourage you to apply! At ServiceNow, we are committed to creating an inclusive environment where all voices are heard, valued, and respected. We welcome all candidates, including individuals from non-traditional, varied backgrounds, that might not come from a typical path connected to this role. We believe skills and experience are transferrable, and the desire to dream big makes for great candidates."
+                    ]
+                },
+                {
+                    "key": "Job Description",
+                    "value": [
+                        "What you get to do in this role:",
+                        "- Build high-quality, clean, scalable and reusable code by enforcing best practices around software engineering architecture and processes (Code Reviews, Unit testing, etc.)",
+                        "- Work with the product owners to understand detailed requirements and own your code from design, implementation, test automation and delivery of high-quality product to our users.",
+                        "- Design software that is simple to use to allow customers to extend and customize the functionality to meet their specific needs",
+                        "- Help design and implement new products and features while also enhancing the existing product suite"
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value": [
+                        "To be successful in this role you have:",
+                        "- 2-4 years of experience with Java or a similar OO language",
+                        "- Passion for JavaScript and the Web as a platform, reusability, and componentization",
+                        "- Experience with data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations",
+                        "- Experience with any of the modern UI frameworks like Angular, React or Vue",
+                        "- Analytical and design skills",
+                        "- Working knowledge and ability to use tools to assist with daily tasks (IDE, debugger, build tools, source control, ServiceNow instances, profilers, system administration/Unix tools)"
+                    ]
+                }
+            ]
+        },
+         
+        {
+            "company_name": "Google ",
+            "position": "Software Engineer, Full-stack, Core",
+            "req_experience": "1 year",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/87968639692481222-software-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+            "company_logo": "https://jobshot.online/gifs/google.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Hyderabad, India",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Minimum qualifications",
+                    "value": [
+                        "Bachelor’s degree or equivalent practical experience.",
+                        "1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript)."
+                    ]
+                },
+                {
+                    "key": "Preferred qualifications",
+                    "value": [
+                        "Master's degree or PhD in Computer Science or related technical field.",
+                        "Experience in Full Stack Software Development.",
+                        "Experience in common storage services (e.g. Spanner).",
+                        "Experience in developing security or privacy products.",
+                        "Experience in a Java server framework.",
+                        "Experience in Angular, TypeScript, or JavaScript front-end development."
+                    ]
+                },
+                {
+                    "key": "About the job",
+                    "value": [
+                        "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.",
+                        "The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Work on security products that are used by Googlers to keep Google secure.",
+                        "Design, implement, and land products that require working knowledge of back-ends, front-ends, and storage.",
+                        "Be part of the on-duty rotation and ensure systems remain running.",
+                        "Partner and collaborate with other job functions (e.g., product managers, program managers, user experience, etc.) as well different sites spanning the globe."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Atlassian" ,
+            "position": "Senior Data Engineer, EEX Data Engineering",
+            "req_experience": "8+ years",
+            "link": "https://careers-apac-atlassian.icims.com/jobs/13857/senior-data-engineer%252c-eex-data-engineering/job",
+            "company_logo": "https://github.com/harshitsinha6/jobshot-gifs/blob/main/atlassian.gif?raw=true",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value":[
+                        "Our Data Engineering Team is comprised of data experts. We build world-class data solutions and applications that power crucial business decisions throughout the organisation. We manage multiple analytical data models and pipelines across Atlassian, covering finance, growth, product analysis, customer analysis, sales and marketing, and so on. We maintain Atlassian's data lake that provide a unified way of analysing our customers, our products, our operations, and the interactions among them.",
+                        "We're hiring a Senior Data Engineer, reporting to the Data Engineering Manager based in Sydney. Here, you'll enable a world-class engineering practice, drive the approach with which we use data, develop backend systems and data models to serve the needs of insights, and help build Atlassian's data-driven culture. You love thinking about the ways the business can consume data and then figuring out how to build it."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "You'll partner with the data analytics and data scientist team to build the data solutions that allow them to obtain more insights from our data and use that to support important business decisions.",
+                        "You'll work with different stakeholders to understand their needs and architect/build the data models, data acquisition/ingestion processes and data applications to address those requirements.",
+                        "You'll add new sources, code business rules, and produce new metrics that support the product analysts and data scientist.",
+                        "You'll be the data domain expert who understand all the nitty-gritty of our products.",
+                        "You'll own a problem end-to-end. Requirements could be vague, and iterations will be rapid",
+                        "You'll improve data quality by using & improving internal tools/frameworks to automatically detect DQ issues."
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value":[
+                        "BS in Computer Science or equivalent experience with 8+ years as a Senior Data Engineer or similar role",
+                        "Strong programming skills using Python",
+                        "Working knowledge of relational databases and query authoring (SQL).",
+                        "Experience designing data models for optimal storage and retrieval to meet product and business requirements.",
+                        "Experience building scalable data pipelines using Spark (SparkSQL) with Airflow scheduler/executor framework or similar scheduling tools.",
+                        "Experience working with AWS data services or similar Apache projects (Spark, Flink, Hive, and Kafka).",
+                        "Understanding of Data Engineering tools/frameworks and standards to improve the productivity and quality of output for Data Engineers across the team.",
+                        "Well versed in modern software development practices (Agile, TDD, CICD)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Atlassian" ,
+            "position": "Data Engineer",
+            "req_experience": "3+ years",
+            "link": "https://careers-apac-atlassian.icims.com/jobs/13856/data-engineer/job",
+            "company_logo": "https://jobshot.online/gifs/atlassian.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value":[
+                        "Our Data Engineering Team is comprised of data experts. We build world-class data solutions and applications that power crucial business decisions throughout the organisation. We manage multiple analytical data models and pipelines across Atlassian, covering finance, growth, product analysis, customer analysis, sales and marketing, and so on. We maintain Atlassian's data lake that provide a unified way of analysing our customers, our products, our operations, and the interactions among them.",
+                        "We're hiring a Data Engineer, reporting to the Data Engineering Manager based in Sydney. Here, you'll enable a world-class engineering practice, drive the approach with which we use data, develop backend systems and data models to serve the needs of insights, and help build Atlassian's data-driven culture. You love thinking about the ways the business can consume data and then figuring out how to build it."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "You'll partner with the data analytics and data scientist team to build the data solutions that allow them to obtain more insights from our data and use that to support important business decisions.",
+                        "You'll work with different stakeholders to understand their needs and architect/build the data models, data acquisition/ingestion processes and data applications to address those requirements.",
+                        "You'll add new sources, code business rules, and produce new metrics that support the product analysts and data scientist.",
+                        "You'll be the data domain expert who understand all the nitty-gritty of our products.",
+                        "You'll own a problem end-to-end. Requirements could be vague, and iterations will be rapid",
+                        "You'll improve data quality by using & improving internal tools/frameworks to automatically detect DQ issues."
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value":[
+                        "A BS in Computer Science or equivalent experience with 3+ years professional experience as a Data Engineer or in a similar role.",
+                        "Strong programming skills using Python",
+                        "Working knowledge of relational databases and query authoring (SQL).",
+                        "Experience designing data models for optimal storage and retrieval to meet product and business requirements.",
+                        "Experience building scalable data pipelines using Spark (SparkSQL) with Airflow scheduler/executor framework or similar scheduling tools.",
+                        "Experience working with AWS data services or similar Apache projects (Spark, Flink, Hive, and Kafka).",
+                        "Understanding of Data Engineering tools/frameworks and standards to improve the productivity and quality of output for Data Engineers across the team.",
+                        "Well versed in modern software development practices (Agile, TDD, CICD)"
+                    ]
+                }
+            ]
+        },  
+        {
+            "company_name": "Postman" ,
+            "position": "Software Engineer-I",
+            "req_experience": "1+ years",
+            "link": "https://boards.greenhouse.io/postman/jobs/5966681003?gh_src=7ad26f843us",
+            "company_logo": "https://jobshot.online/gifs/postman.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About the team",
+                    "value":[
+                        "At Postman, the Trials and Experimentation team stands as a pioneering initiative geared towards delivering significant value to our customers and driving revenue growth.",
+                        "This team fosters a culture of exploration among our developers, encouraging them to experiment with Free Plan user behaviors and enhance their overall product experience to get them converted to a Paid Customer, thus contributing to the company's bottom line."
+                    ]
+                },
+                {
+                    "key": "Your Role",
+                    "value": [
+                        "Own and deliver Postman’s Trials Journey end to end.",
+                        "Introduce Trial Ingresses and personalize Postman Workspaces during Trials.",
+                        "Collaborate with engineering and product stakeholders to grasp user requirements. Craft precise technical specifications for product features and implement them.",
+                        "Other Major responsibilities include on-call duty,  peer code reviews and actively contributing to the platform's overall maturity. "
+                    ]
+                },
+                {
+                    "key": "About You",
+                    "value":[
+                        "You’ve a Bachelor's degree or equivalent experience.",
+                        "You’ve at least one year experience in building enterprise products.",
+                        "You're eager to dive deep and solve problems for our users.",
+                        "You demonstrate empathy towards users, ensuring products are intuitively usable and meet their needs effectively.",
+                        "You have good written and verbal communication skills that are evident in how you collaborate with your peers within or outside your team."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Amazon" ,
+            "position": "Software Development Engineer-I",
+            "req_experience": "1+ years",
+            "link": "https://www.amazon.jobs/en/jobs/2634686/software-development-engineer-i",
+            "company_logo": "https://jobshot.online/gifs/amazon.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "DESCRIPTION",
+                    "value":[
+                        "You will be part of a new team building a large scale tier-1 rendering platform that supports as the skeleton for all the payment pages to depend, host and render on, in Amazon Pay. You and a team of developers will work through all phases of the project life-cycle, including reviewing requirements, designing services that lay foundation for the new technology platform, building from the basic blocks of the new UX components and their interfaces, developing and testing code, and delivering seamless implementations for our customers. You will help define, design, prototype, and build these experiences. To achieve this, you will collaborate closely with product managers, UX designers, Software developers and multiple client teams.",
+                        "<b>Key job responsibilities: </b> Work closely with senior engineers to architect and develop the best technical design. Development in multiple layers of the stack including the design system, UX components adhering to the design, reusable widgets that build on these components, page rendering toolkits and web server hosting solutions. Operational rigor for a rapidly growing tech stack. Assist in the continual hiring and development of technical talent."
+                    ]
+                },
+                {
+                    "key": "BASIC QUALIFICATIONS",
+                    "value": [
+                        " 1+ years of non-internship professional software development experience",
+                        "Experience programming with at least one software programming language"
+                    ]
+                },
+                {
+                    "key": "PREFERRED QUALIFICATIONS",
+                    "value":[
+                        "Bachelor's degree in computer science or equivalent"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Siemens ",
+            "position": "Software Developer",
+            "req_experience": "2-3 year",
+            "link": "https://jobs.siemens.com/careers/job/563156119408247?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com",
+            "company_logo": "https://jobshot.online/gifs/siemens.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Pune, India",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Hello Visionary!",
+                    "value": [
+                        "We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future.",
+                        "Does that sound like you? Then it seems like you’d make a great addition to our vibrant team."
+                    ]
+                },
+                {
+                    "key": "About Siemens Advanta",
+                    "value": [
+                        "Siemens founded the new business unit Siemens Advanta (formerly known as Siemens IoT Services) on April 1, 2019 with its headquarters in Munich, Germany. It has been crafted to unlock the digital future of its clients by offering end-to-end support on their outstanding digitalization journey. Siemens Advanta is a strategic advisor and a trusted implementation partner in digital transformation and industrial IoT with a global network of more than 8000 employees in 10 countries and 21 offices. Highly skilled and experienced specialists offer services which range from consulting to craft & prototyping to solution & implementation and operation – everything out of one hand."
+                    ]
+                },
+                {
+                    "key": "You’ll make a difference by:",
+                    "value": [
+                        "**Mandatory Skills**:",
+                        "- C programming",
+                        "- Multithreaded application development",
+                        "- Hands-on with Linux",
+                        "- Knowledge of OS concepts",
+                        "- Experience of testing (module test and integration test)",
+                        "- Analysis of Requirements",
+                        "- High level and low level Design",
+                        "- Defect reproduction and root cause analysis",
+                        "- Implementation of features",
+                        "- Unit testing of the code",
+                        "- Writing of test specification for testing of different features and defect resolutions",
+                        "- Execution of functional tests on hardware and simulator",
+                        "**Desired Skills**:",
+                        "- 2-4 years of experience is required.",
+                        "- Great Communication skills.",
+                        "- Analytical and problem-solving skills"
+                    ]
+                },
+                {
+                    "key": "Join us and be yourself!",
+                    "value": "We value your unique identity and perspective and are fully committed to prov"
+                }
+            ]
+        },
+        {
+            "company_name": "Microsoft ",
+            "position": "Data Analyst",
+            "req_experience": "Entry Level",
+            "link": "https://jobs.careers.microsoft.com/us/en/job/1716412/Data-Analyst?jobsource=linkedin",
+            "company_logo": "https://jobshot.online/gifs/microsoft.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Hyderabad, Telangana, India",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value": [
+                        "Do you have a relentless passion for data and analytics and a desire to drive future products via key data insights? Do you want to help shape the future of collaboration experience and personal computing, by helping direct where investments should happen? Does the thought of being able to influence the product in each stage of the lifecycle through insights & predictions excite you? Do you love measuring, understanding, and predicting based on real-world user data to come up with insights that drive experiments and recommendations to help move business metrics? If so, we want to talk to you!",
+                        "We are the Data & Applied Sciences team for Windows at Hyderabad, India. We work across various Windows products with the goal of using advanced analytics & data science to inform decision making, drive product performance and maximize business impact through the power of ML/AI. In short, we thrive on data to solve high impact business problems for Windows!",
+                        "We're looking for an enthusiastic and expert Data and Applied Scientist (DAS) to help us build and deliver business Intelligence through data for experiences running on the next generation of Windows devices. Your responsibilities will include working closely with a variety of teams such as program management, development, design, hardware and application partners to understand the key business questions for customer-facing scenarios, to set up the key performance indicators, deeply analyze the data to identify insights and experiment ideas that moves our business metrics. We will be looking to you to help evaluate the return of investments on new ideas, to assess if investments are meeting customer and business promises, to design and assess experiments, to measure growth and to derive insights that help identify next wave of opportunities and problems to be solved."
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value": [
+                        "Bachelor's Degree in Statistics, Mathematics, Analytics, Data Science, Engineering, Computer Science, Business, Economics or related field",
+                        "OR associate degree in Statistics, Mathematics, Analytics, Data Science, Engineering, Computer Science, Business, Economics or related field",
+                        "OR equivalent experience. If this sounds like you, contact us now and we’d love to talk to you! Join us to move Windows forward!",
+                        "Experience of SQL and common database.",
+                        "Ability to process and run quick data analysis using python.",
+                        "Ability to perform Statistical analysis on datasets and come up with insights.",
+                        "Experience of evaluation of experimentation in the real world with various performance metrics.",
+                        "Experience of causal analysis is a plus.",
+                        "Other expected skills:",
+                        "Algorithm Development",
+                        "Analytical Skills",
+                        "Data Cleaning",
+                        "Data Evangelism",
+                        "Data Integration",
+                        "Data Integrity",
+                        "Data Mining",
+                        "Data Visualization",
+                        "Database Querying",
+                        "Dependency Management",
+                        "Detail Oriented",
+                        "English Language Proficiency",
+                        "Oral Communication",
+                        "Problem Solving",
+                        "Research",
+                        "Statistics",
+                        "Technical Communication",
+                        "Technical Expertise"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "As a Data Analyst, you will specialize in owning and analyzing the business questions for the team. Through your analysis and research, you will curate and maintain Key Performance Indicators which show trends towards achieving a business goal. You will learn and excel ways to find patterns in the data that are harder to find but can lead to getting to our business objectives. Your analysis will not only show us what we’re doing right or wrong in our current methodology, but also what customer segment and strategies we should invest more in, and how, for achieving and exceeding our goals."
+                    ]
+                }
+            ]
+        },
+                {
+            "company_name": "Microsoft ",
+            "position": "Data Analyst",
+            "req_experience": "Entry Level",
+            "link": "https://jobs.careers.microsoft.com/us/en/job/1716412/Data-Analyst?jobsource=linkedin",
+            "company_logo": "https://jobshot.online/gifs/microsoft.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Hyderabad, Telangana, India",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value": [
+                        "Do you have a relentless passion for data and analytics and a desire to drive future products via key data insights? Do you want to help shape the future of collaboration experience and personal computing, by helping direct where investments should happen? Does the thought of being able to influence the product in each stage of the lifecycle through insights & predictions excite you? Do you love measuring, understanding, and predicting based on real-world user data to come up with insights that drive experiments and recommendations to help move business metrics? If so, we want to talk to you!",
+                        "We are the Data & Applied Sciences team for Windows at Hyderabad, India. We work across various Windows products with the goal of using advanced analytics & data science to inform decision making, drive product performance and maximize business impact through the power of ML/AI. In short, we thrive on data to solve high impact business problems for Windows!",
+                        "We're looking for an enthusiastic and expert Data and Applied Scientist (DAS) to help us build and deliver business Intelligence through data for experiences running on the next generation of Windows devices. Your responsibilities will include working closely with a variety of teams such as program management, development, design, hardware and application partners to understand the key business questions for customer-facing scenarios, to set up the key performance indicators, deeply analyze the data to identify insights and experiment ideas that moves our business metrics. We will be looking to you to help evaluate the return of investments on new ideas, to assess if investments are meeting customer and business promises, to design and assess experiments, to measure growth and to derive insights that help identify next wave of opportunities and problems to be solved."
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value": [
+                        "Bachelor's Degree in Statistics, Mathematics, Analytics, Data Science, Engineering, Computer Science, Business, Economics or related field",
+                        "OR associate degree in Statistics, Mathematics, Analytics, Data Science, Engineering, Computer Science, Business, Economics or related field",
+                        "OR equivalent experience. If this sounds like you, contact us now and we’d love to talk to you! Join us to move Windows forward!",
+                        "Experience of SQL and common database.",
+                        "Ability to process and run quick data analysis using python.",
+                        "Ability to perform Statistical analysis on datasets and come up with insights.",
+                        "Experience of evaluation of experimentation in the real world with various performance metrics.",
+                        "Experience of causal analysis is a plus.",
+                        "Other expected skills:",
+                        "Algorithm Development",
+                        "Analytical Skills",
+                        "Data Cleaning",
+                        "Data Evangelism",
+                        "Data Integration",
+                        "Data Integrity",
+                        "Data Mining",
+                        "Data Visualization",
+                        "Database Querying",
+                        "Dependency Management",
+                        "Detail Oriented",
+                        "English Language Proficiency",
+                        "Oral Communication",
+                        "Problem Solving",
+                        "Research",
+                        "Statistics",
+                        "Technical Communication",
+                        "Technical Expertise"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "As a Data Analyst, you will specialize in owning and analyzing the business questions for the team. Through your analysis and research, you will curate and maintain Key Performance Indicators which show trends towards achieving a business goal. You will learn and excel ways to find patterns in the data that are harder to find but can lead to getting to our business objectives. Your analysis will not only show us what we’re doing right or wrong in our current methodology, but also what customer segment and strategies we should invest more in, and how, for achieving and exceeding our goals."
+                    ]
+                }
+            ]
+        },
+                {
+            "company_name": "Deutsche Bank ",
+            "position": "Full Stack developer",
+            "req_experience": "3-6 years",
+            "link": "https://careers.db.com/professionals/search-roles/?test.html%3Fkid%3D=linkedinjobwrap#/professional/job/52796",
+            "company_logo": "assets/gifs/deutsche bank.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Pune",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Role Description",
+                    "value": [
+                        "Engineer is responsible for managing or performing work across multiple areas of the bank's overall IT Platform/Infrastructure including analysis, development, and administration. It may also involve taking functional oversight of engineering delivery for specific departments. Work includes:",
+                        " Planning and developing entire engineering solutions to accomplish business goals",
+                        " Building reliability and resiliency into solutions with appropriate testing and reviewing throughout the delivery lifecycle",
+                        " Ensuring maintainability and reusability of engineering solutions",
+                        " Ensuring solutions are well architected and can be integrated successfully into the end-to-end business process flow",
+                        " Reviewing engineering plans and quality to drive re-use and improve engineering capability",
+                        " Participating in industry forums to drive adoption of innovative technologies, tools and solutions in the Bank."
+                    ]
+                },
+                {
+                    "key": "What we will offer you",
+                    "value": [
+                        "As part of our flexible scheme, here are just some of the benefits that you’ll enjoy:",
+                        " Best in class leave policy",
+                        " Gender neutral parental leaves",
+                        " 100% reimbursement under childcare assistance benefit (gender neutral)",
+                        " Sponsorship for Industry relevant certifications and education",
+                        " Employee Assistance Program for you and your family members",
+                        " Comprehensive Hospitalization Insurance for you and your dependents",
+                        " Accident and Term life Insurance",
+                        " Complementary Health screening for 35 yrs. and above"
+                    ]
+                },
+                {
+                    "key": "Your key responsibilities",
+                    "value": [
+                        "We are looking for Senior Full Stack Java/J2ee Developer with hands-on experience with Spring framework and Angular/React."
+                    ]
+                },
+                {
+                    "key": "Your skills and experience",
+                    "value": [
+                        "Solid working experience in Java and J2EE development skills.",
+                        "Solid understanding of Microservices Architecture.",
+                        "Need working knowledge of SQL and NoSQL database.",
+                        "Working experience in Oracle PL/SQL.",
+                        "Experience with Angular/React Framework, JavaScript, and CSS.",
+                        "Comprehensive knowledge of Web design patterns and front-end technologies like HTML5, JavaScript and MVC framework like Spring and Spring Boot.",
+                        "Hand-on experience with unit testing and working with continuous integration environment.",
+                        "Excellent communication skills with the ability to solicit and formalize requirements and work with end users/customers.",
+                        "Ability to work in a semi-structured environment where requirements and priorities are dynamic.",
+                        "Experience with agile development methodology.",
+                        "Knowledge of Cloud Platform like GCP, AWS is a definite plus.",
+                        "Experience/Knowledge of Python/Scala."
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value": [
+                        "3-6 years of experience in software development",
+                        "Strong Java/ J2EE with hands-on Angular experience with Spring frameworks and Web-services."
+                    ]
+                },
+                {
+                    "key": "How we will support you",
+                    "value": [
+                        "Training and development to help you excel in your career.",
+                        "Coaching and support from experts in your team.",
+                        "A culture of continuous learning to aid progression.",
+                        "A range of flexible benefits that you can tailor to suit your needs."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "ZOHO" ,
+            "position": "User Experience Designer",
+            "req_experience": "0 - 3 years",
+            "link": "https://www.linkedin.com/jobs/view/3912905015/",
+            "company_logo": "https://jobshot.online/gifs/zoho.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "Chennai",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About the Job",
+                    "value":[
+                        "Zoho is one of the world;s most prolific software companies. With 55+ applications in nearly every major business category, including sales, marketing, customer service, accounting and back office operations, and an array of productivity and collaboration tools built from the ground up, Zoho has the depth and breadth to solve even the most complex business challenges.",
+                        "With more than 100 million+ users and over 15,000 employees across the globe, hundreds of thousands of companies rely on Zoho, every day to run their businesses, including Zoho itself. With 25 years of being private, bootstrapped and profitable, we understand what it takes to run a sustainable, resilient business"
+                    ]
+                },
+                {
+                    "key": "About the Role",
+                    "value": [
+                        "We are looking for a entry level 0-3 years experience, who is passionate about their work, eager to learn and grow, and who is committed to delivering exceptional results. If you are a team player, with a positive attitude and a desire to make a difference, then we want to hear from you"
+                    ]
+                },
+                {
+                    "key": "As a member of design team at Zoho, you’ll need to be able to:",
+                    "value":[
+                        "Collaborate closely within a multi-disciplinary team environment, focusing on problem-solving and holistic design solutions.",
+                        "Translate user requirements, wireframes, and prototypes into high-fidelity mockups and design assets.",
+                        "Analyze user data and metrics to make informed design decisions and continually improve the user experience.",
+                        "Implement best practices for usability, accessibility, and user interaction while adhering to brand guidelines and design standards.",
+                        "Be detail-oriented and have a conscientious approach to your work",
+                        "Manage multiple projects, prioritize effectively, and adapt seamlessly to changing priorities.",
+                        "Confidently articulate UX design rationale and enjoy leading conversations with teams and customers",
+                        "Embrace feedback positively and maintain a proactive 'can-do' attitude towards improvement.",
+                        "Demonstrate a willingness to learn, explore beyond comfort zones, and proactively seek knowledge through questioning and exploration."
+                    ]
+                },
+                {
+                    "key": "Requirements",
+                    "value": [
+                        "Looking for fresher or no more than 3 years of experience in user experience field",
+                        "Proven experience in UX design roles, showcasing a strong portfolio of projects that demonstrate expertise in user experience field.",
+                        "Proficiency in design tools such as Adobe XD, Figma, or similar software.",
+                        "Strong analytical and problem-solving skills with an eye for detail and a conscientious approach to work.",
+                        "Excellent communication and collaboration skills to work effectively in a team environment.",
+                        "Bachelor’s degree in Design, Human-Computer Interaction, or related field (or equivalent work experience)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "IBM India Private Limited",
+            "position": "Software Engineering",
+            "req_experience": "",
+            "link": "https://careers.ibm.com/job/20311277/application-developer-salesforce-bangalore-in/?codes=SN_LinkedIn&Codes=SN_LinkedIn",
+            "company_logo": "https://jobshot.online/gifs/ibm.gif",
+            "skill_vis_check": false,
+            "req_skills": "",
+            "location": "Bangalore, IN",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Your Role and Responsibilities",
+                    "value": [
+                        "As a Consultant at IBM, you will play a pivotal role as a client-facing practitioner, leveraging IBM's extensive offerings and technologies to provide expert services. Your success will be measured by your ability to build trust with clients, serving as a trusted advisor who collaborates to deliver innovative solutions that address complex business challenges.",
+                        "Key Responsibilities:",
+                        "- Collaboration and Solution Design: Work closely with clients and development teams to conceptualize and implement creative solutions for Salesforce CRM Applications. Utilize your consulting skills and business acumen to lead discussions, understanding client needs, and shaping solution architecture.",
+                        "- Guideline Establishment: Establish and advocate design and architecture guidelines, best practices, and standards within internal teams. Your expertise will contribute to the development of robust frameworks that enhance project efficiency and quality."
+                    ]
+                },
+                {
+                    "key": "Required Technical and Professional Expertise",
+                    "value": [
+                        "- Salesforce Development: Proficiency in Salesforce Developer tools, including Apex and Lighting Web Components (LWC), is essential for this role.",
+                        "- Experience Cloud: Demonstrated knowledge and experience with Experience Cloud (formerly Community Cloud), particularly in audience targeting, is required. Familiarity with Experience Cloud functionalities is crucial.",
+                        "- Integration Skills: Experience in integrating Salesforce Lightning/LWC with other systems is a must.",
+                        "- Salesforce Clouds: Familiarity with Sales Cloud, Service Cloud, and Experience Cloud is essential for successful project execution."
+                    ]
+                },
+                {
+                    "key": "Preferred Technical and Professional Expertise",
+                    "value": [
+                        "- Salesforce Marketing Cloud: Experience in Salesforce Marketing Cloud would be advantageous, providing additional depth to your skill set.",
+                        "- Vlocity Expertise: Knowledge and experience with Vlocity, a powerful tool for industry-specific solutions on Salesforce, would be beneficial.",
+                        "- Commerce Cloud: Exposure to Commerce Cloud would be a plus, contributing to a more comprehensive understanding of Salesforce's ecosystem and capabilities."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Zomato" ,
+            "position": "Intern",
+            "req_experience": "college grads",
+            "link": "https://www.linkedin.com/jobs/view/3913346578",
+            "company_logo": "https://jobshot.online/gifs/zomato.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "Tamil Nadu",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "What you will do:",
+                    "value":[
+                        "Source and onboard delivery partners through various channels",
+                        "Drive campaigns and implement strategies to maximize outreach",
+                        "Assist in recruitment processes and support employer branding initiatives",
+                        "Provide regular updates and reports on sourcing activities to stakeholders"
+                    ]
+                },
+                {
+                    "key": "What you need to bring to the ‘table’:",
+                    "value": [
+                        "Available for full-time (in-office) 3-month internship",
+                        "Service-oriented mindset and enthusiasm for building relationships",
+                        "Strong verbal communication skills in English, Hindi, and any local language",
+                        "Excellent interpersonal, organizational, and time management skills"
+                    ]
+                },
+                {
+                    "key": "What you will learn:",
+                    "value":[
+                        "That you can do more than what you ever thought you could"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Oracle" ,
+            "position": "Software Engineer",
+            "req_experience": "Associate",
+            "link": "https://www.linkedin.com/jobs/view/3912536355/",
+            "company_logo": "https://jobshot.online/gifs/oracle.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About the JOB",
+                    "value":[
+                        "Looking for a passionate and eager to learn Software Developer to work in Healthcare IT",
+                        "As a member of the software engineering division, you will apply basic to intermediate knowledge of software architecture to perform software development tasks associated with developing, debugging or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and occasionally suggest improvements to the architecture.",
+                        "here’s what will be in store for you at CRED once you join as a part of the customer success team"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Responsible for designing, developing, troubleshooting, testing and implementing software solution in accordance with established standards.",
+                        "Collaborate with other engineers, testers and other stakeholders to write high-quality code and deliver it to clients in a timely manner. ",
+                        "Analyse and understand requirements and products.",
+                        "Work with product owners and product managers to understand client expectations on different projects. ",
+                        "Contribute to scoping and improvement of solution designs, peer review code and design.",
+                        "Debug existing code to identify and resolve issues. ",
+                        "Propose performance optimization and devise ideas for overall code refinement. ",
+                        "Provide guidance to junior developers.",
+                        "Identify gaps in existing processes and suggest changes. ",
+                        "Work independently on developing medium complex solutions.",
+                        "Work in collaboration with senior developers on high complex solutions.",
+                        "Release code in production."
+                    ]
+                },
+                {
+                    "key": "Tools and Tech Stack:",
+                    "value":[
+                        "Programming Languages: Cerner Command Language (CCL), SQL, JavaScript",
+                        "IDEs: In-house applications (Discern Visual Developer, Extract Manager)",
+                        "Tools: Git, JIRA"
+                    ]
+                },
+                {
+                    "key": "Basic Qualification Required:",
+                    "value": [
+                        "At least, 2 to 4 years of relevant development experience",
+                        "Bachelors Computer Engineering, Bachelors Software Engineering, Bachelors Computer Science, Bachelors Information Systems"
+                    ]
+                },
+                {
+                    "key": "Skills Needed",
+                    "value":[
+                        "Proficient in SQL or similar query language",
+                        "Intermediate problem-solving skills",
+                        "Good understanding of product development lifecycle",
+                        "Basic understanding of agile methodology"
+                    ]       
+                },
+                {
+                    "key": "For Oracle Cerner internal candidates only:",
+                    "value": [
+                        "Intermediate CCL experience",
+                        "Knowledge of Millennium data models",
+                        "Basic knowledge of Oracle Cerner Millennium products"
+                    ]
+                },
+                {
+                    "key": "Additional Skills Preferred:",
+                    "value": [
+                        "GIT and JIRA experience",
+                        "Basics of OOP concepts",
+                        "Adept at understanding and using new products and adopting new technology",
+                        "Effective communication",
+                        "Attention to detail",
+                        "Result driven",
+                        "Strategic thinker",
+                        "Basic understanding of code implementation or release",
+                        "Passion for learning and improving ",
+                        "Prioritize work to meet adapting deadlines"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Cred" ,
+            "position": "Backend Developer",
+            "req_experience": "Mid-Senior level",
+            "link": "https://www.linkedin.com/jobs/view/3908881694/",
+            "company_logo": "https://jobshot.online/gifs/cred.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About CRED",
+                    "value":[
+                        "CRED is an exclusive community for India’s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior. CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception. to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true.",
+                        "here’s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better.",
+                        "here’s what will be in store for you at CRED once you join as a part of the customer success team"
+                    ]
+                },
+                {
+                    "key": "Role",
+                    "value": [
+                        "you will work on a disruptive product that’s still in its early stages",
+                        "you will be responsible to drive innovation in software development, while relentlessly improving performance, scalability, and maintainability.",
+                        "you will own the design process, implementation, and verification of framework components leveraging standard software engineering methodologies",
+                        "you will be translating functional and technical requirements into detailed architecture and design.",
+                        "you will be responsible for mentoring other engineers, defining our technical culture, and helping to build a fast-growing team."
+                    ]
+                },
+                {
+                    "key": "Requirements",
+                    "value":[
+                        "Someone having 6-8 years of experience in product development, architecture, and design",
+                        "constantly learning and looking for ways to improve yourself and the processes around you",
+                        "mentoring and supporting other team members by doing code reviews and applying your experience in process and technical leadership",
+                        "working in an agile team environment and are a self-starter, conscientious member of the team",
+                        "passionate to code, but also you’re awesome at it!",
+                        "interested in working with Java/Golang programming languages, have proficiency in DDB, RDS, Aerospike databases, and possess experience with the AWS cloud platform"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Accenture",
+            "position": "Application Developer",
+            "req_experience": "3-12 yrs",
+            "link": "https://www.linkedin.com/jobs/view/3907441062/?alternateChannel=search&refId=8VsRDwP7LLQT9Jpti1QxIA%3D%3D&trackingId=FYhSU7ptJc47H7DpocZ8GQ%3D%3D",
+            "company_logo": "https://jobshot.online/gifs/accenture.gif",
+            "skill_vis_check": false,
+            "req_skills": "Oracle EBS Financial",
+            "location": "Bengaluru, Noida, Chennai",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About the job",
+                    "value": [
+                        "Project Role: Application Developer",
+                        "Project Role Description: Design, build and configure applications to meet business process and application requirements.",
+                        "Must have skills: Oracle EBS Financials",
+                        "Experience: 3 to 12 years",
+                        "Educational Qualification: 15 years of full term education",
+                        "Location : Bengaluru, Noida, Chennai "
+                    ]
+                },
+                {
+                    "key": "Summary:",
+                    "value": [
+                        "As an Application Developer for Oracle EBS Financials, you will be responsible for designing, building, and configuring applications meet",
+                        "business process and application requirements. Your typical day will involve working with Oracle EBS Financials, analyzing business requirements, and",
+                        "developing solutions to meet those requirements."
+                    ]
+                },
+                {
+                    "key": "Roles & Responsibilities:",
+                    "value": [
+                        "Design, develop, and maintain Oracle EBS Financials applications to meet business requirements.",
+                        "Collaborate with cross-functional teams to analyze business requirements and develop solutions to meet those requirements.",
+                        "Develop and maintain technical documentation for Oracle EBS Financials applications.",
+                        "Provide technical support for Oracle EBS Financials applications, including troubleshooting and issue resolution."
+                    ]
+                },
+                {
+                    "key": "Professional & Technical Skills:",
+                    "value": [
+                        "Must To Have Skills: Strong experience in Oracle EBS Financials.",
+                        "Good To Have Skills: Experience in Oracle EBS modules such as General Ledger, Accounts Payable, Accounts Receivable, and Fixed Assets.",
+                        "Experience in Oracle EBS Financials implementation and customization.",
+                        "Strong understanding of Oracle EBS Financials architecture and data model.",
+                        "Experience in Oracle EBS Financials integration with other systems.",
+                        "Experience in Oracle EBS Financials reporting tools such as Oracle Reports and Oracle BI Publisher."
+                    ]
+                }
+            ]
+        },
+                {
+            "company_name": "Navan",
+            "position": "Back-End Engineer",
+            "req_experience": "3-5 yrs",
+            "link": "https://navan.com/careers/openings/5780887?gh_jid=5780887",
+            "company_logo": "https://jobshot.online/gifs/navan.gif",
+            "skill_vis_check": false,
+            "req_skills": "java, AWS, Hibernate, ,Spring Framework, Backend",
+            "location": "Palo Alto, CA",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "What You will Do: ",
+                    "value": [
+                        "Design and implement APIs and core services",
+                        "Develop models and business logic",
+                        "Build impactful product features",
+                        "Ensure quality of features through testing, monitoring, and documentation",
+                        "Collaborate with product and design teams to align features with business needs",
+                        "Provide technical guidance and support to team members",
+                        "Contribute to frameworks for improved user experience",
+                        "Learn and adopt new technologies"
+                    ]
+                },
+                {
+                    "key": "What We're Looking For:",
+                    "value": [
+                        "Solid programming skills and CS fundamentals with 3-5 years of product building experience",
+                        "Understanding of architecture and API design for core services and product features",
+                        "Ownership mindset demonstrated by delivering production-quality code with testing and documentation",
+                        "Desire to solve problems and learn new tools and technologies",
+                        "Effective communication with stakeholders to design solutions",
+                        "Ability to thrive in a fast-paced environment",
+                        "Experience with startups and/or consumer-facing products is a plus",
+                        "Familiarity with Java, AWS, and/or distributed systems is a plus",
+                        "Familiarity with Hibernate or similar ORM technologies is a plus",
+                        "Familiarity with Spring Framework is a plus"
+                    ]
+                },
+                {
+                    "key": "Pay Range:",
+                    "value": [
+                        "$101,250—$175,000 USD"
+                    ]
+                },
+                {
+                    "key": "About Navan:",
+                    "value": [
+                        "Navan is the all-in-one super app simplifying travel and expense management.",
+                        "Our platform empowers users to focus on what matters while providing companies with visibility, savings, and control.",
+                        "Backed by investors like Andreessen Horowitz and valued at $9.2B, Navan is poised for continued growth.",
+                        "In April 2023, Navan expanded into the Indian market with the acquisition of Tripeur, adding to our portfolio of travel and expense",
+                        "management companies. We're committed to diversity, fostering leadership, and innovation to create breakthrough ideas."
+                    ]
+                },
+                {
+                    "key": "Benefits:",
+                    "value": [
+                        "Navan offers a comprehensive benefits package including medical, dental, vision, parental leave, commuter benefits, mental health support, and more."
+                    ]
+                },
+                {
+                    "key": "Workplace Policy:",
+                    "value": [
+                        "We believe in the value of in-person connections and operate on a hybrid working model, with three days a week in-office.",
+                        "Our global offices promote collaboration and provide a welcoming environment for our team."
+                    ]
+                },
+                {
+                    "key": "Equal Opportunity:",
+                    "value": [
+                        "Navan is an equal opportunity employer, committed to providing a fair and inclusive workplace.",
+                        "We welcome applicants from diverse backgrounds and provide accommodations for individuals with disabilities."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "PhonePe" ,
+            "position": "Software Engineer_KP (SRE Team)",
+            "req_experience": "9+ years",
+            "link": "https://boards.greenhouse.io/phonepe/jobs/5944963003",
+            "company_logo": "https://jobshot.online/gifs/phonepe.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About PhonePe Group",
+                    "value":[
+                        "PhonePe is India’s leading digital payments company with 50 crore (500 Million) registered users and 3.7 crore (37 Million) merchants covering over 99% of the postal codes across India. On the back of its leadership in digital payments, PhonePe has expanded into financial services (Insurance, Mutual Funds, Stock Broking, and Lending) as well as adjacent tech-enabled businesses such as Pincode for hyperlocal shopping and Indus App Store which is India's first localized App Store. The PhonePe Group is a portfolio of businesses aligned with the company's vision to offer every Indian an equal opportunity to accelerate their progress by unlocking the flow of money and access to services."
+                    ]
+                },
+                {
+                    "key": "Challenges",
+                    "value": [
+                        "Building for Scale, Rapid Iterative Development, and Customer-centric Product Thinking at each step defines every day for a developer at PhonePe. Though we engineer for a 50million+ strong user base, we code with every individual user in mind. While we are quick to adopt the latest in Engineering, we care utmost for security, stability, and automation. Apply if you want to experience the best combination of passionate application development and product-driven thinking"
+                    ]
+                },
+                {
+                    "key": "As a Software Engineer:",
+                    "value":[
+                        "You will build Robust and scalable web-based applications You will need to think of platforms & reuse",
+                        "Build abstractions and contracts with separation of concerns for a larger scope",
+                        "Drive problem-solving skills for high-level business and technical problems.",
+                        "Do high-level design with guidance; Functional modeling, break-down of a module",
+                        "Do incremental changes to architecture: impact analysis of the same",
+                        "Do performance tuning and improvements in large scale distributed systems",
+                        "Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution",
+                        "Work closely with Product Manager to derive capability view from features/solutions, Lead execution of medium-sized projects",
+                        "Work with broader stakeholders to track the impact of projects/features and proactively iterate to improve them As a senior software engineer you must have",
+                        "Extensive and expert programming experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.",
+                        "Experience with multi-threading and concurrency programming",
+                        "Extensive experience in object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive module and class-level interfaces",
+                        "Excellent coding skills – should be able to convert the design into code fluently",
+                        "Knowledge of Test Driven Development",
+                        "Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase, Elasticsearch, Aerospike, etc)",
+                        "Strong desire to solving complex and interesting real-world problems",
+                        "Experience with full life cycle development in any programming language on a Linux platform",
+                        "Go-getter attitude that reflects in energy and intent behind assigned tasks",
+                        "Worked in a startups environment with high levels of ownership and commitment",
+                        "BTech, MTech, or Ph.D. in Computer Science or related technical discipline (or equivalent).",
+                        "Experience in building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data.",
+                        "9+ years of experience in the art of writing code and solving problems on a Large Scale.",
+                        "An open communicator who shares thoughts and opinions frequently listens intently and takes constructive feedback."
+                    ]
+                },
+                {
+                    "key": "As a Software Engineer, good to have",
+                    "value": [
+                        "The ability to drive the design and architecture of multiple subsystems",
+                        "Ability to break-down larger/fuzzier problems into smaller ones in the scope of the product",
+                        "Understanding of the industry’s coding standards and an ability to create appropriate technical documentation."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Visa" ,
+            "position": "Software Engineer",
+            "req_experience": "Mid-Senior level",
+            "link": "https://www.linkedin.com/jobs/view/3904620974/",
+            "company_logo": "https://jobshot.online/gifs/visa.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Summary",
+                    "value":[
+                        "The Product Development division of the platform is undergoing a transformation to promote the adoption of a more secure, simplified checkout experience. This is being achieved through the introduction of new product capabilities within the Click to Pay ecosystem, which leverages Visa's tokenization and other features. To facilitate the onboarding of merchants and PSPs worldwide for various regional markets, Visa has partnered with multiple card schemes, adopting the EMVCo standard for Click To Pay as a solution.",
+                        "The Senior Software Engineer role is crucial to our ongoing transformation, requiring you to solve challenging business problems and build highly scalable and user-friendly applications"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Designing, documenting, and implementing new systems, enhancements, and modifications to existing software that aligns with design specifications, security, and Java best practices.",
+                        "Understanding backend databases and queries, API creations and consumptions, and contributing to frontend UI development.",
+                        "Delivering zero-defect code and ensuring the team's deliverables meet or exceed business expectations.",
+                        "Identifying opportunities for product innovation and improvements to best practices, standards, and processes.",
+                        "Working independently to develop software that conforms to Visa’s high standards of security, quality, performance, resiliency, and compliance.",
+                        "Coordinating Continuous Integration activities, testing automation frameworks, and contributing core product code.",
+                        "Supporting test engineers and operation teams in troubleshooting, defect research, issue root cause analysis, etc.",
+                        "Communicating status, issues, and risks effectively and timely.",
+                        "Having experience in full-stack technology, in one or more of the following technologies - Java, Spring MVC, Spring Boot, Angular, JavaScript, NoSQL, Maven, Design Patterns, Test Automation framework.",
+                        "Expertise in front-end technologies, including JavaScript, CSS3 and HTML5 and third-party libraries such as ReactJS, Angular, jQuery, and Less.js.",
+                        "Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js).",
+                        "Experience with databases (e.g. MongoDB), web servers (e.g. Apache), and UI/UX design.",
+                        "Experience with agile development incorporating Continuous Integration and Continuous Delivery, utilizing technologies such as GIT, Maven, and Jenkins.",
+                        "Ability to create wireframes and responsive designs for a great user experience.",
+                        "Expertise in building web applications from the ground up.",
+                        "Developing code that aligns with design specifications and meets security and standard coding quality processes.",
+                        "Collaborating with cross-functional teams to identify and solve complex problems."
+                    ]
+                },
+                {
+                    "key": "Basic Qualifications",
+                    "value":[
+                        "2+ years of relevant work experience and a Bachelors degree, OR 5+ years of relevant work experience",
+                        "Bachelor’s degree in computer science, Computer Engineering or related technical field required with 4-6 years of experience as a Java developer."
+                    ]
+                },
+                {
+                    "key": "Preferred Qualifications",
+                    "value": [
+                        "3 or more years of work experience with a Bachelor’s Degree or more than 2 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Microsoft" ,
+            "position": "Software Engineer",
+            "req_experience": "1-3 years",
+            "link": "https://jobs.careers.microsoft.com/us/en/job/1711342/Software-Engineer",
+            "company_logo": "https://jobshot.online/gifs/microsoft.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR/HYD",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Summary",
+                    "value":[
+                        "Do you want to be part of a growing global team creating solutions to critical business problems across multiple application and service platforms?  We are looking for all levels of full stack software engineers with a range of talents who will drive innovative, scalable & automated solutions as well as delightful end user experiences. ",
+                        "We are looking for a driven software engineer who is passionate about solving enterprise business problems at scale and developing a new class of services for our customers. You will be part of a growing, inclusive and supportive team that values engineering rigor, technical excellence and customer obsession."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Drive feature development with focus on technical direction, quality, usability & performance leveraging data for making decisions ",
+                        "Participate in live site operations with emphasis on timely response, delivery & satisfaction for stakeholders ",
+                        "Collaborate across internal & external stakeholders providing leadership and mentoring "
+                    ]
+                },
+                {
+                    "key": "Must-haves: ",
+                    "value":[
+                        "Bachelor’s degree in Computer Science, Engineering, Advanced Sciences or equivalent alternative education, skills and/or practical experience ",
+                        "1-3 years of professional software development experience specifically in building cloud-based SaaS applications ",
+                        "Strong written and verbal English communication skills ",
+                        "Strong technical skills including understanding of object-oriented programming & design, algorithms, database concepts & performance, no-sql technologies and microservice architecture ",
+                        "Demonstrable coding, debugging, design, testing and problem-solving skills "
+                    ]
+                },
+                {
+                    "key": "Nice-to-haves: ",
+                    "value": [
+                        "Dynamics 365 Finance & Operations or other enterprise resource and planning (ERP) or customer relationship management (CRM) software experience ",
+                        "Knowledge of microservices principles ",
+                        "X++/C#/Java, JavaScript/TypeScript, SQL experience "
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Intuit" ,
+            "position": "Software Engineer 2",
+            "req_experience": "2+ years",
+            "link": "https://www.linkedin.com/jobs/view/3903238293/",
+            "company_logo": "https://jobshot.online/gifs/intuit.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value":[
+                        "Come join the ProConnect team as a Software Engineer. This groups mission is to help Intuit achieve its key outcome to “Do the Nations’ Taxes.” More specifically, this team focuses on winning the professional tax category in North America, capitalizing on the shift to cloud and mobile-based solutions. We are looking for a highly motivated and creative problem solver with a passion for innovation to join our team and revolutionize the way the world does business."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Designs, builds and operates highly available services on public and private clouds.",
+                        "Applies SCM best practices to enable highly available & reliable systems and processes including source control, artifact management, build, and deployment systems.",
+                        "Deliver high quality web, windows and desktop software keeping in mind automation and CI/CD ( Jenkins ).",
+                        "Be an integral part of launch that provides for strategy to pilot, scale and ensure zero-downtime while releasing features",
+                        "Acting as the technical subject matter expert: Demonstrating technical expertise, and leading a small team solving challenging programming and design problems",
+                        "Work cross-functionally with various Intuit teams including: product management, various product lines, experience design and business units to drive forward results",
+                        "Demonstrate a passion for developing well architected, elegant products for desktop.",
+                        "Experience with Agile Development, SCRUM, or Extreme Programming methodologies"
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value":[
+                        "BS/MS in computer science or equivalent work experience",
+                        "2+ year’s experience designing and developing desktop solutions using XE5, Delphi 2010, C#, .Net 3.5 and related technologies",
+                        "Strong knowledge and hands on experience on scripting languages like Ruby, Python is preferred.",
+                        "Must have knowledge in Dockerization and Kubernetes ( mSaaS technologies)",
+                        "Experience in developing and deploying code to production on AWS and providing analytics and monitoring for the application.",
+                        "Deep understanding of building highly available infrastructure using public cloud technologies and native services.",
+                        "Experience with successfully executing and continuously improving the release process for a large organization delivering many products with competing timelines.",
+                        "Strong coding abilities, architecture, design, debugging, and performance/diagnostics measurement skills",
+                        "Excellent communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences",
+                        "Expertise in the Software design/architecture process",
+                        "Expertise with unit testing & Test Driven Development (TDD)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Cisco" ,
+            "position": "Rising Talent Graduate Apprentice - India UHR",
+            "req_experience": "grads",
+            "link": "https://jobs.cisco.com/jobs/ProjectDetail/Rising-Talent-Graduate-Apprentice-India-UHR/1420958",
+            "company_logo": "https://jobshot.online/gifs/cisco.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Business Analyst Trainee",
+                    "value":[
+                        "Analyze business processes, find gaps and identify improvement opportunities, work with large amount of data and having business context to derive meaningful insights from the analysis of the data.",
+                        "Present data and insights in a logical, influential manner to drive data driven business decisions.",
+                        "Exposure to Microsoft Excel, SQL and Power Point and prototyping, solution in sandbox environment.",
+                        "Partner with the functional owners on analysis of process and data flows, data stores, and measurements/metrics integration, perform metrics analysis as required to provide actionable information to end users."
+                    ]
+                },
+                {
+                    "key": "Consulting Engineer Trainee",
+                    "value": [
+                        "Solve problems using technologies and determine the best solutions for customers.",
+                        "Review network requirements and propose designs to meet business needs.",
+                        "Build and maintain relationships with a variety of customers.",
+                        "Implement Cisco technologies worldwide and provide optimization to large networks."
+                    ]
+                },
+                {
+                    "key": "Technical Consulting Engineer Trainee",
+                    "value":[
+                        "Work with top engineers while working hands-on with Cisco’s equipment to stay up to date on cutting-edge innovations.",
+                        "Be a strategic partner to our customers, saving their business from the impact of network incidents, solving and preventing the recurrence of technical issue.",
+                        "Manage and optimize existing networking infrastructure and proactively prevent network impairing incidents."
+                    ]
+                },
+                {
+                    "key": "Associate Sales Trainee",
+                    "value":[
+                        "Progressing deals from Introduction, Discovery and to Custom Demonstration.",
+                        "Collaborating alongside Key Account Managers and making marketing events successful.",
+                        "Working on client facing activities such as presentations, proposals, business cases, demo etc.",
+                        "Learn Sales Analytics and Sales Process excellence."
+                    ]
+                }                ,
+                {
+                    "key": "Marketing Trainee",
+                    "value":[
+                        "Analyze business processes, find gaps and identify improvement opportunities, work with large amount of data and having business context to derive meaningful insights from the analysis of the data.",
+                        "Present data and insights in a logical, influential manner to drive data driven business decisions.",
+                        "Exposure to Microsoft Excel, SQL and Power Point and prototyping, solution in sandbox environment.",
+                        "Partner with the functional owners on analysis of process and data flows, data stores, and measurements/metrics integration, perform metrics analysis as required to provide actionable information to end users."
+                    ]
+                },
+                {
+                    "key": "Site Reliability Engineer Trainee",
+                    "value":[
+                        "Designs, writes, and builds tools to improve the reliability, availability, and scalability of key systems and services.",
+                        "Automates deployments, monitors, analyzes and optimizes products / services in Network platforms and environments, Change management procedures and deployment processes.",
+                        "Maintains engineering environment to best support automated testing of code that is actively being used by customers. Principle of zero downtime is maintained.",
+                        "Site reliability engineers typically create a bridge between development and operations by applying a software engineering mindset to system administration topic."
+                    ]
+                },
+                {
+                    "key": "Software Engineer Trainee ",
+                    "value":[
+                        "Develop, testing, troubleshooting, and debugging software programs for enhancements and new products. ",
+                        "The tech platforms may include but not limited to operating systems, compilers, routers, networks, utilities, databases and Internet-related tools."
+                    ]
+                },
+                {
+                    "key": "Software Test Engineer  Trainee",
+                    "value":[
+                        "Real-time insights into application performance, user experience and business outcomes.   ",
+                        "Visibility into end-to-end application performance from user interface points   ",
+                        "Automation and testing of the products while monitoring cloud-based solutions. ",
+                        "Develop frameworks for automating tests that can validate complex distributed systems. "
+                    ]
+                },
+                {
+                    "key": "Hardware Test Engineer Trainee",
+                    "value":[
+                        "Concepts of HDL or other tools to draw schematic design and its process.",
+                        "Translating Hardware Schematics design into layout design.",
+                        "Execution of test cases using scripts and sharing the test logs, performing analysis on the same.",
+                        "Performing different levels of Hardware Automation, Validation and Test where applicable."
+                    ]
+                },
+                {
+                    "key": "Software Developer Trainee",
+                    "value":[
+                        "Programming languages and latest development methodologies.",
+                        "Deploying new software and upgrades to a large SaaS environment.",
+                        "Change management procedures and deployment processes.",
+                        "Developing one or more tools used within the operations team to automate complex tasks"
+                    ]
+                },
+                {
+                    "key": "Data Analyst Trainee",
+                    "value":[
+                        "Analyze business processes, find gaps and identify improvement opportunities",
+                        "Strong Data analytics and visualization skills: Work with large amount of data and having business context to derive meaningful insights from the analysis of the data.",
+                        "Present data and insights in a logical, influential manner to drive data driven business decisions.",
+                        "Capture the inventory of Supply Chain data sources, dashboards, measurements, and metrics to prepare and manage integrated data architecture.",
+                        "Perform data mapping, lineage, classification and data dictionary to create Master Data Catalogue",
+                        "Partner with the functional owners on analysis of data flows, data stores, and measurements/metrics integration.",
+                        "Perform metrics analysis as required to provide actionable information to end users."
+                    ]
+                },
+                {
+                    "key": "Hardware Engineer Trainee",
+                    "value":[
+                        "Concepts of HDL or other tools to draw schematic design and its process   ",
+                        "Translating Hardware Schematics design into layout design    ",
+                        "Execution of test cases using scripts and sharing the test logs, performing analysis on the same  ",
+                        "Performing different levels of Hardware Automation, Validation and Test where applicable  "
+                    ]
+                },
+                {
+                    "key": "Data Engineer Trainee",
+                    "value":[
+                        "Working with multiple complex data sets to accelerate operational and strategic data-driven decision-making.",
+                        "Understanding the opportunities and business drivers and building insight and solutions for those through data",
+                        "Opportunity to learn and apply the various data ingestion and data engineering techniques to 'Thread the Data' for business consumption and analytics use cases.",
+                        "Opportunity to learn and apply data science tools and techniques including python, machine learning and data visualization.",
+                        "Come up new ideas to drive data engineering projects to build various data sets for analytical use cases."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Reliance JIO" ,
+            "position": "UI Designer",
+            "req_experience": "0 - 3 years",
+            "link": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=i9Jck2tVk04XRBciItBXjg==&jbID=qVjU6t8qQyaWVodc881muQ==&funcCode=am1AraTXtX4/W/EJK6dzzw==",
+            "company_logo": "https://jobshot.online/gifs/reliance.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Responsibilities",
+                    "value": [
+                        "1. Responsible for the look and feel of Jio Cloud suite of products",
+                        "2. Managing day to day process of translating design requirements into",
+                        "User Interfaces",
+                        "3.Create logos, design concepts, sample layouts, web templates and",
+                        "marketing materials using the industry standard design tools like Adobe",
+                        "Photoshop,",
+                        "Illustrator, etc",
+                        "4. Create original design ideas and layouts from creative briefings#",
+                        "Lead the design process by creating sketches, wire-frames, navigation",
+                        "flow charts, Photoshop",
+                        "mock-ups and interactive prototypes",
+                        "5. Lead and evangelize best user-interface design practices, which",
+                        "create exceptional user experience",
+                        "6.Thinking creatively to produce new ideas and concepts,Ability to work",
+                        "independently and with limited instructions is critical",
+                        "7.Solid experience in user flows, process flows and site maps#",
+                        "Proficiency in Photoshop, Illustrator, or other visual design and wire-",
+                        "framing tools",
+                        "8.Proficiency in HTML, CSS, and JavaScript for rapid prototyping",
+                        "9.Excellent visual design skills with sensitivity to user-system",
+                        "interaction",
+                        "10. Ability to solve problems creatively and effectively",
+                        "11. Up-to-date with the latest UI trends, techniques, and technologies"
+                    ]
+                },
+                {
+                    "key": "Skills & Competencies",
+                    "value": [
+                        "1. Understanding of Functional / Technical Area",
+                        "2. Communication Skills",
+                        "3. Team Player",
+                        "4. Result Orientation",
+                        "5. Integrity",
+                        "6. Customer Focus",
+                        "7. Learning Agility",
+                        "8. Adaptability",
+                        "9. Teamwork",
+                        "10.Initiative",
+                        "11.Innovation",
+                        "12.Problem Solving",
+                        "13.Commitment"
+                    ]
+                },
+                {
+                    "key":"Education Requirement :",
+                    "value": [
+                        "B Tech / BE / M Tech / ME / MBA"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Incred",
+            "position": "SDE",
+            "req_experience": "3-5 years",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSaYRmBpLqWYq8yJUNFOmrV-ufMcyyBBVcj8SmvHWKwHOWeA/viewform?pli=1",
+            "company_logo": "https://jobshot.online/gifs/offcampus hiring.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Working Days",
+                    "value": [
+                        "5 Days a week"
+                    ]
+                },
+                {
+                    "key": "Qualifications & Experience",
+                    "value": [
+                        "3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience",
+                        "Bachelor's degree in computer science or equivalent"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Delta Airlines",
+            "position": "Senior Engineer - AI",
+            "req_experience": "4+ years",
+            "link": "https://talent500.co/jobs/delta-airlines-india/senior-engineer-ai-bengaluru-T500-11218",
+            "company_logo": "https://jobshot.online/gifs/delta airlines.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Responsibilities include",
+                    "value": [
+                        "Work with a team of engineers and cross-divisionally with our partners to identify and define business problems suitable for artificial Intelligence. ",
+                        "Actively participate in developing strategy around which frameworks, technologies and infrastructure our team should use in our proof-of-concepts and pilots for AI solutions.",
+                        "Build proof-of-concepts and prototypes that can be used to demonstrate the impact of Artificial Intelligence in Delta's various business units.",
+                        "Build a set of reusable models/solutions for rapid prototyping. ",
+                        "Develop an AI first mindset and help democratize AI for Delta."
+                    ]
+                },
+                {
+                    "key": "minimum qualifications",
+                    "value": [
+                        "4+ years of work/educational experience in Machine Learning and Artificial Intelligence.",
+                        "Experience with programming language including but not limited to: Python.",
+                        "Significant experience Python for software development and familiarity with complex methods and nuances of software development in Python.",
+                        "Experience working with Generative AI models and frameworks.",
+                        "Experience with one or more of the following: Natural Language Processing, Computer Vision, Reinforcement Learning, Recommendation Systems, Audio Processing.",
+                        "Experience and familiarity presenting to technical audiences.",
+                        "You are self-motivated and take pride in building great experiences for users, whether they are employees or customers. You are resourceful in finding the data and tools you need to get the job done and have a bias for action.",
+                        "You enjoy working with people and can put yourself in other people's shoes. You're not afraid to ask for help when you need it or help teammates when they need a boost. ",
+                        "You believe in strong opinions, weakly held-- you're not afraid to change your opinion in the face of new facts and acknowledge what you don't know. ",
+                        "Are intensely curious about finding a solution to the pain-points of our passengers along the entire travel experience.",
+                        "Love travelling and can deeply empathize with our customers."
+                    ]
+                },
+                {
+                    "key": "preferred qualifications",
+                    "value": [
+                        "Bachelor’s degree in computer science, Information Technology or related field.",
+                        "Development and debugging experience with AI frameworks such as PyTorch.",
+                        "Experience with Generative AI models and frameworks such as OpenAI’s GPT family of models, open-source LLMs, and LangChain.",
+                        "Experience in building API & Web UI.",
+                        "Experience with one or more general purpose programming languages including but not limited to: Java, C / C++, R."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "HSBC",
+            "position": "Analyst – Data Governance GSC’S",
+            "req_experience": "freshers",
+            "link": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Analyst-Data-Governance-GSC-S/216031?src=JB-257546",
+            "company_logo": "https://jobshot.online/gifs/hsbc.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job description",
+                    "value": [
+                        "The principal goal of the DAO is to transform HSBC into a truly data-led organisation and support the delivery and implementation of the Group Data Strategy. It will drive the delivery of the Group Data Strategy across the 3 pillars - Protect our data, Connect to our people, Unlock value for our customers. Starting with clear, unambiguous data definitions and culminating in trusted insight from well managed and controlled data, DAO plays a pivotal role as the data conscience for the Bank.",
+                        "The responsibilities of the team include setting out, and subsequently holding Global Businesses and Functions accountable to follow a unified Data Strategy. This includes ensuring data is unambiguously defined, that it is controlled and managed to an appropriate level of quality, that Businesses/Functions comply with internal data policies and external data regulations, that data is sourced from appropriate (ideally “trusted”) sources.",
+                        "The objectives of the team include playing an active role in coordinating the delivery of strategic data capabilities, providing effective monitoring and controls, consistently reporting and ensuring that the strategic future vision for data across the enterprise is realized."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Analyse and translate business needs into long-term data solutions",
+                        "Create and govern a central Business Data Glossary used across the enterprise",
+                        "Deliver conceptual and logical data model using HSBC’s Metadata methodology",
+                        "Documentation of data standards, Business and Data Quality Rules",
+                        "Support HSBC’s Data Management Framework through data governance services",
+                        "Build self-service visualization capabilities using RDF Knowledge Graph to derive insights",
+                        "Advice business and IT stakeholders using Knowledge Graph to establish Lineage and determine Trusted Sources",
+                        "Engage with stakeholders to understand requirements for metadata governance and coordinate meetings with SMEs / Data Governors",
+                        "On-board critical data sets to establish Governance framework using group strategic tools - COLLIBRA",
+                        "Develop, maintain and optimize meta-models for data supporting key processes",
+                        "Coordinate engagement with Business and IT teams to provide support on analysis and documentation of metadata"
+                    ]
+                },
+                {
+                    "key": "Requirements",
+                    "value": [
+                        "Bachelor’s or Master’s degree from reputed university with specialization in numerical discipline and concentration in computer science, information systems or other engineering specializations.",
+                        "Knowledge of Conceptual/Logical Data Modelling, exposure to Data Governance, Metadata Management, Data Quality assessment and controls implementation using Collibra.",
+                        "Should possess advanced knowledge of Data Modelling and Metadata management",
+                        "Understanding of Graph Database / Knowledge Graph is desirable.",
+                        "Detail knowledge of data management framework – data governance, data privacy, business architecture and data quality.",
+                        "Strong analytical skills with business analysis aptitude.",
+                        "Ability to comprehend intricate and diverse range of business problems and analyse them with limited or complex data and provide a feasible solution framework. Experience on working on Data/Information Management projects of varying complexities."
+                    ]
+                },
+                {
+                    "key": "Functional requirements",
+                    "value": [
+                        "Knowledge and understanding of financial-services/ banking-operations in a Global Bank.",
+                        "Understanding of accounting principles, data flows and regulatory landscape – BCBS239, B3R, CCAR, IFRS9 etc.",
+                        "Familiarity of implementing data management with one of the following frameworks – DAMA / TOGAF / FIBO / EDM"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Amazon",
+            "position": "Software Development Engineer",
+            "req_experience": "2+ years",
+            "link": "https://www.amazon.jobs/en/jobs/2610749/software-development-engineer",
+            "company_logo": "https://jobshot.online/gifs/amazon.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "BASIC QUALIFICATIONS",
+                    "value": [
+                        "3+ years of non-internship professional software development experience",
+                        "2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+                        "Experience programming with at least one software programming language"
+                    ]
+                },
+                {
+                    "key": "PREFERRED QUALIFICATIONS",
+                    "value": [
+                        "3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience",
+                        "- Bachelor's degree in computer science or equivalent"
+                    ]
+                },
+                {
+                    "key": "DESCRIPTION",
+                    "value": [
+                        "Do you pioneer? Do you enjoy breaking down and solving complex problems for the benefit of a quickly expanding customer base, focusing first on our customer and working backwards? If so, the Global Specialty Fulfillment Technology (GSFTech) team is looking for an experienced Software Development Engineer with a strong record of achieving results, to create solutions from the ground up (no existing code base) to solve GSFs most complex operational challenges. The role requires heavy index on innovation, dive deep, bias for action, and ownership.",
+                        "GSF obsesses over customers by offering the fastest delivery option available to Prime Customers with Amazon Prime Now. Not only do we deliver fast, we own the operation of some of Amazon’s most innovative businesses including: AMXL,Whole Foods Delivery, Treasure Truck, Pantry, Fresh, Pickup Points, and Specialty Handling (think delivering/unpacking/installing TVs).",
+                        "As a key member of our engineering team, you will have the opportunity to work across multiple problem spaces for a new platform that will redefine how we solve labor planning and scheduling at Amazon. You will be solving complex problems, working on difficult challenges in engineering as the scale and suite of our services grow. You will be responsible for engineering new web-based interfaces and features that will shape how specialty fulfillment evolves here at Amazon. You will be part of a new team charged with defining and building new solutions in a startup environment."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "JPMorgan Chase & Co",
+            "position": "Analyst",
+            "req_experience": "0- 5 years",
+            "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210454515",
+            "company_logo": "https://jobshot.online/gifs/jpmc.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Responsibilities:",
+                    "value": [
+                        "Partner with Underwriters and Lending Specialists to capture terms and conditions stipulated in the credit approval and legal documentation into the corporate credit platform.",
+                        "Establish and monitor proper linkages between the Corporation Credit Systems.",
+                        "Coordinate with internal staff (Underwriters, Lending Specialists, and Wholesale Loan Services) and external constituencies (customer, legal counsel) to ensure approved facilities are correctly booked for loan closings.",
+                        "Coordinates the global approval for cross Lines of Business requests to include exposure to customers that are managed by units outside of the family responsibility area. ",
+                        "Ensure that Country of Risk allocations are accurate and/or that Senior Country Officer concurrence is obtained, if required.",
+                        "Assist in issuance of letters of credit and amendments and monitor/manage ARC LC queues for approvals of new and evergreen LCs.",
+                        "Manage and monitor credit exposure information on the corporate credit systems.",
+                        "Coordinate all administrative aspects of portfolio management on a day to day basis including, but not limited to, identifying unlinked outstanding, over limits, temporary facility extension or increases.",
+                        "Support the information needs as a result of internal and external examinations, portfolio reviews, credit audits and quality reviews.",
+                        "Manage market and  Lines of Business transfers as clients and facilities are moved to new markets or to other Lines of Business",
+                        "Creation of and maintaining client information records in internal systems"
+                    ]
+                },
+                {
+                    "key": "Additional core responsibilities include:",
+                    "value": [
+                        "Regulatory reporting updates for CCAR dates post loan set up",
+                        "Unilateral notice mailing and tracking activities",
+                        "Identification of trends specific to market, individuals or process and recommendation of training or process updates",
+                        "Participate in strategic initiatives including Loan Doc Platform integration to streamline DocuSign and WLS activities",
+                        "Signature Validation processes to confirm valid client signatures",
+                        "Ensure consistent global use of key data elements – Reg U form and execution, Reg Z minimum amounts, specific Operational flags and RRC codes associated with evergreen and purpose credits",
+                        "Engage in relevant global consistency initiatives"
+                    ]
+                },
+                {
+                    "key": "Required qualifications, skills and capabilities:",
+                    "value": [
+                        "B.A., B.S.,  or relevant work experience",
+                        "MS Office, MS excel, SharePoint",
+                        "Experience Min 0- 5 years’ experience in Financial Services environment",
+                        "Legal documentation knowledge-ability to read and understand legal terms and conditions",
+                        "Ability to interact with varying levels of management throughout the organization",
+                        "Ability to represent AWM in all working groups that involve decision making on behalf of the business",
+                        "Credit concepts, policy/regulatory framework, loan and derivative products",
+                        "Credit Risk Infrastructure, tools and processes a plus (ARC, EN, SRGT, CRRT, OWL, SELM, etc.)",
+                        "Strong technical skills – Excel, data mining and management, Microsoft office",
+                        "Transformation skills a plus-Signavio, Alteryx, Xceptor"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Flipkart",
+            "position": "SDE-II",
+            "req_experience": "2+ years",
+            "link": "https://www.flipkartcareers.com/#!/job-view/software-development-engineer-ii-bangalore-karnataka-2024032718564871",
+            "company_logo": "https://jobshot.online/gifs/flipkart.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Description",
+                    "value": [
+                        "At Flipkart, SDE-2 are engineers who create features based on product requirements. You’re expected to design and code in multiple tech components related to your functional area. You’re required to learn the best practices and design principles and patterns to make the code-base maintainable and extensible. You must also develop a deep understanding of non-functional requirements, such as reliability and availability, scale, horizontal scalability, etc. over time and make tech stack decisions accordingly. ",
+                        "We are looking for engineers who are well rounded - quality conscious, product thinkers, business cognizant and smart – not mere coders. Engineers get to significantly amplify their impact with the scale that Flipkart operates at."
+                    ]
+                },
+                {
+                    "key": "Roles & Responsibilities (What you’ll do):",
+                    "value": [
+                        "Design components by translating product requirements, break down project into tasks and provide accurate estimates. ",
+                        "Independently come up with different solutions, extensibile Low level design. Write modular, extensible, readable and performant code. You are expected to work on complex projects while taking ownership and accountability of assigned deliverables, quality of work (Code quality) & documentation aspects. ",
+                        "Choose the right Data Structures, tools  and tech stacks and be able to do High Level Designing with guidance. ",
+                        "Build, develop, mentor and coach junior team members",
+                        "Collaborate with teams by contributing to the shared vision and working closely with cross-functional stakeholders."
+                    ]
+                },
+                {
+                    "key": "Skills Required (What you’ll need): ",
+                    "value": [
+                        "B.Tech or M.Tech or equivalent with at least 2 years of experience",
+                        "Build abstractions and contracts with separation of concerns for a larger scope. ",
+                        "Extensive programming experience in any one programming language like Java, Ruby, Clojure, Scala,C or C++, SQL etc",
+                        "Strong object-oriented programming skills. ",
+                        "Experience with multi-threading and concurrency programming",
+                        "Ability to work with complex business flows and dealing with huge amounts of data. ",
+                        "Prior work experience in an agile environment or continuous integration and continuous delivery (CI or CD) ",
+                        "Experience of building robust and scalable web-application is good to have."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "PayPal",
+            "position": "Software Engineer",
+            "req_experience": "2 - 5 years",
+            "link": "https://paypal.eightfold.ai/careers?domain=paypal.com&query=R0109547&sort_by=relevance",
+            "company_logo": "https://jobshot.online/gifs/paypal.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Description",
+                    "value": [
+                        "You will be responsible for collaborating with a team of engineers in designing, developing, testing, and deploying a range of products on web and mobile platforms. A successful candidate will have an established background in developing customer-facing experiences, strong technical abilities, excellent project execution skills, great communication skills, and motivation to achieve results in a fast-paced environment.",
+                        "We are looking for a rockstar engineer to spearhead our Identity Platform. As an engineer of the team, you will design and implement robust solutions to complex problems. Our team is fast and innovative, following agile methodologies. If you are self-driven, passionate, a team player, and have effective communication skills, this role will fascinate you."
+                    ]
+                },
+                {
+                    "key": "Your day to day:",
+                    "value": [
+                        "Work within a team of highly talented engineers, products, and architects to design and develop a highly scalable and configurable Identity Platform.",
+                        "You will be involved in all aspects of the project life cycle, from the initial kickoff through the requirements analysis, design, and implementation.",
+                        "Must be a self-starter, work independently or as a team member, and have strong communication skills in interfacing with business partners and Technology.",
+                        "You are required to build domain knowledge for all channels that we support at the Identity platform. ",
+                        "Highly analytical, innovative, and able to think strategically and develop comprehensive detailed specifications.",
+                        "Highly effective at working in cross-functional groups and getting results in matrix organizations.",
+                        "Experience in engineering support of a product through a PDLC. Working knowledge of finance industry standards and practices is preferred."
+                    ]
+                },
+                {
+                    "key": "What do you need to bring:",
+                    "value": [
+                        "2-5 years of experience in software development. ",
+                        "Solid understanding of algorithms and data structures, knowledge of object-oriented design, Design Patterns, and multi-threaded programming ",
+                        "Strong OOP skills, with the ability to analyze requirements and transform them into scalable software designs. ",
+                        "Experience with HTTP, and REST APIs and competent designing and building web services/microservices in a commercial setting. ",
+                        "Competent in design/implementation for reliability, availability, scalability, and performance. ",
+                        "Strong troubleshooting, debugging, and analytical skills. ",
+                        "Hands-on Java Programming Expertise (Core Java, J2EE, Spring framework) ",
+                        "Hands-on Building Restful Services. ",
+                        "Follow coding and design best practices ",
+                        "Experience working on SQL, and NoSQL solutions with a clear understanding of the pros and cons of both relational & free form databases. ",
+                        "Knowledge and a particular interest in issues related to large-scale distributed stream processing, real-time computation systems  ",
+                        "Ability to determine the impact of architectural solutions and come up with recommendations ",
+                        "Design, architect and build data systems and pipelines ",
+                        "Ability to navigate organizational boundaries and work fairly independently with limited handholding ",
+                        "Exhibit one team behavior and work with several stakeholders and team members cohesively.  "
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "LinkedIn",
+            "position": "Staff Software Engineer, Machine Learning",
+            "req_experience": "10+ years",
+            "link": "https://www.linkedin.com/jobs/view/3879790921/",
+            "company_logo": "https://jobshot.online/gifs/linkedin.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About the job",
+                    "value": [
+                        "LinkedIn was built to help professionals achieve more in their careers, and everyday millions of people use our products to make connections, discover opportunities, and gain insights. Our global reach means we get to make a direct impact on the world’s workforce in ways no other company can. We’re much more than a digital resume – we transform lives through innovative products and technology.",
+                        "We are looking for an experienced Staff AI Engineer to step into a crucial role as a technical leader within our Trust AI Platforms & Foundations team and our content abuse prevention team. Our primary mission is to establish standardized tools, platforms, and algorithms that will serve various trust-focused teams. You will also get to contribute to the improvement of the LinkedIn member experience by building scalable models that detect and prevent content abuse on our platform.",
+                        "At LinkedIn, we trust each other to do our best work where it works best for us and our teams. This role offers a hybrid work option, meaning you can both work from home and commute to a LinkedIn office, depending on what’s best for you and when it is important for your team to be together."
+                    ]
+                },
+                {
+                    "key": "Responsibilities:",
+                    "value": [
+                        "Lead the team to deliver state-of-the-art solutions for the most complex problems to keep members safe on the platform",
+                        "Strong ownership and collaboration skills to work across horizontal and vertical teams by driving consensus, domain adaptation and alignment.",
+                        "Drive technical roadmap and architecture for foundational technology across the Trust organization ",
+                        "Align on product and technology strategy related to Trust issues across functions and organizations across LinkedIn",
+                        "Lead by example to build a culture of craftsmanship and innovation and mentor the next generation of engineering leaders."
+                    ]
+                },
+                {
+                    "key": "Basic Qualifications: ",
+                    "value": [
+                        "MS/PhD Degree in Computer Science or related technical or quantitative discipline, or equivalent practical experience ",
+                        "10+ years' experience in machine learning, artificial intelligence, and ML algorithm related solutions",
+                        "5+ years in an architect or technical leadership position ",
+                        "Domain expertise in deep learning, Generative AI and large language models",
+                        "10+ years of experience in large scale machine learning modelling both from scale of operation and scale of the models",
+                        "10+ years of Experience in end-to-end model development life cycle spanning (but not limited to) data sampling, model training, deployment and performance evaluation"
+                    ]
+                },
+                {
+                    "key": "Preferred Qualifications:",
+                    "value": [
+                        "Experience in pre-training/fine tuning of large language models including the recent generative set models",
+                        "Expertise in one or more of the following: machine learning, data mining, security data science, advanced statistics,"
+                    ]
+                },
+                {
+                    "key": "Desirable Skills and Aptitudes",
+                    "value": [
+                        "Deep Learning experience or knowledge – LLMs, Natural Language Processing, Vision, Audio, Recommendation systems.",
+                        "Knowledge of the structure and function of different components of Pytorch, TensorFlow software stacks.",
+                        "Excellent C/C++/Python programming and software design skills, including debugging, performance analysis, and test design.",
+                        "Ability to work independently, define requirements and scope, and lead your own development effort.",
+                        "Well versed with open-source development practices.",
+                        "Strong developer with a research mindset – strives to innovate.",
+                        "Avid problem solver – should be able to find solutions to key engineering and domain problems.",
+                        "Knowledge of tiling and scheduling a Machine learning operator is a plus.",
+                        "Experience in using C++ 14 (advanced features)",
+                        "Experience of profiling software and optimization techniques",
+                        "Hands on experience writing SIMD and/or multi-threaded high-performance code is a plus.",
+                        "Experience of ML compiler, Auto-code generation (using MLIR) is a plus.",
+                        "Experiences to run workloads on large scale heterogeneous clusters is a plus.",
+                        "Hands-on experience with CUDA, CUDNN is a plus."
+                    ]
+                },
+                {
+                    "key": "Qualifications:",
+                    "value": [
+                        "Bachelor's / Masters/ PHD degree in Engineering, Machine learning/ AI, Information Systems, Computer Science, or related field.",
+                        "2+ years Software Engineering or related work experience.",
+                        "2+ years’ experience with Programming Language such as C++, Python."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Tech Mahindra",
+            "position": "Java Backend Engineer",
+            "req_experience": "2+ years",
+            "link": "https://www.linkedin.com/jobs/view/3871225567/",
+            "company_logo": "https://jobshot.online/gifs/tech mahindra.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Mandate Skills",
+                    "value": [
+                        "<b>Java, Springboot, Microservices, API Gateway, Web API, Kafka, K8t, Databrick and MongoDB </b>"
+                    ]
+                },
+                {
+                    "key": "Job Role",
+                    "value": [
+                        "The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications."
+                    ]
+                },
+                {
+                    "key": "Minimum Qualifications",
+                    "value": [
+                        "Bachelor's Degree in Computer Science, CIS, or related field (or equivalent work experience in a related field)",
+                        "Should have good hands-on experience working in JAVA and Microservices (Springboot, API Gateways, Circuit Breakers)",
+                        "Design REST APIs as per Open API specifications.",
+                        "Knowledge of multiple back-end languages - Java, Python and JavaScript frameworks (e.g. Angular, React, Node.js)",
+                        "Detailed knowledge with databases (e.g. MongoDB, Postgres,MySQL DB) and web servers (e.g. Apache).",
+                        "Designing and implementing scalable web services, applications, and APIs.",
+                        "Identifying bottlenecks and improving software efficiency.",
+                        "Collaborating with the product team on developing micro-services.",
+                        "Good to have - Knowledge on front-end languages and libraries (e.g. React, HTML/ CSS, JavaScript, Typescript, XML, jQuery)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Adobe",
+            "position": "SDE",
+            "req_experience": "0-2 years",
+            "link": "https://careers.adobe.com/us/en/job/ADOBUSR145089EXTERNALENUS/Software-Development-Engineer",
+            "company_logo": "https://jobshot.online/gifs/adobe.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "noida",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "OPPORTUNITY",
+                    "value": [
+                        "Adobe Globalization team is working on a platform which provides rich multilingual features to support the globalization workflows. As a part of this platform our hardworking team of developers is working on highly available microservices and rich user interfaces to provide frictionless experience to our customers. In conjunction to this, all projects we undertake have a data and analytics side where developers are expected to work with relevant tools and technologies. We are looking for an exceptional developer who can contribute to this platform to provide world class experience to our customers"
+                    ]
+                },
+                {
+                    "key": "WHAT YOU’LL DO",
+                    "value": [
+                        "Design and Development of one or more above components/services in the platform",
+                        "Be responsible for the complete lifecycle of the project from user story to design, development, testing, documentation, and maintenance.",
+                        "Develop rich user interfaces and highly available and scalable services.",
+                        "Programming in Java, JavaScript, Spring Framework, React.",
+                        "Maintain existing services and features."
+                    ]
+                },
+                {
+                    "key": "WHAT YOU NEED TO SUCCEED",
+                    "value": [
+                        "B. Tech and/or M. Tech Computer Science with excellent academic record",
+                        "Proven Expertise in designing, building, evolving, and working with large scale, complex software projects",
+                        "Self-motivated, with ability and interest in learning upcoming technologies and adapting quickly to new requirements and environments",
+                        "Strong Programming and Problem-solving skills",
+                        "Good written and verbal communication skills",
+                        "Good teammate",
+                        "Prior experience in building intelligent services powered by data analytics or ML algorithms would be a bonus",
+                        "Prior experience in Globalization would be a bonus"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Zoho",
+            "position": "QA Engineers",
+            "req_experience": "experienced",
+            "link": "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913581",
+            "company_logo": "https://jobshot.online/gifs/zoho.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Description",
+                    "value": [
+                        "Experience in manual and automation testing.",
+                        "Knowledge of Java Programming (data types, variables, operators, flow control statements, methods (built-in as well as user-defined), Exception handling, File Handling, Database Operations, and OOPS concepts.",
+                        "Experience in MySQL/PgSQL.",
+                        "Experience in Selenium and Jmeter.",
+                        "Should be able to perform rigorous testing by creating large data sets, conduct back-end testing, and validate information as it flows through the system.",
+                        "Assist developers, support reps, and product managers in debugging issues.",
+                        "Re-test and verify the bugs/issues that have been fixed.",
+                        "Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Microsoft",
+            "position": "Senior Software Engineer",
+            "req_experience": "8+ years",
+            "link": "https://jobs.careers.microsoft.com/us/en/job/1693539/Senior-Software-Engineer",
+            "company_logo": "https://jobshot.online/gifs/microsoft.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value": [
+                        "Do you have an unwavering love for front-end development and a knack for weaving digital dreams into reality? As our Full Stack development Maestro, you will take center stage in mesmerizing crafting web applications. Your mission: harmonize aesthetics with functionality and deliver a standing ovation-worthy performance. ",
+                        "We are seeking a talented Full Stack Developer with a primary focus on front-end development to join our growing team at Microsoft Security CXE. You will collaborate with other teams within Microsoft Security CXE to design, develop, and maintain websites for the Microsoft security CXE Organization. ",
+                        "The perfect candidate for this role should have developed websites focusing on Analytics and data needs and have a strong skill in UX design with focus on web development using .NET, C#, and JavaScript. ",
+                        "Strong experience with DevOps practices such as Continuous Integration and Continuous Deployment (CI/CD) and experience in programming applications. "
+                    ]
+                },
+                {
+                    "key": "Front-End Development: ",
+                    "value": [
+                        "Utilize HTML, CSS, and JavaScript to craft responsive and intuitive user interfaces. ",
+                        "Collaborate closely with PMs implement their visions effectively. ",
+                        "Optimize web applications for speed and responsiveness. ",
+                        "Ensure consistent user experiences across various browsers and devices. "
+                    ]
+                },
+                {
+                    "key": "Back-End Development:",
+                    "value": [
+                        "Develop server-side logic and APIs using languages like Node.js, Python and integration of APIs to Front-end.  ",
+                        "Seamlessly integrate front-end and back-end components. ",
+                        "Implement security and data protection measures. ",
+                        "Develop and maintain APIs using RESTful or SOAP protocols "
+                    ]
+                },
+                {
+                    "key": "Database Management:",
+                    "value":[
+                        "Design and manage databases to support web applications. ",
+                        "Write efficient SQL queries and perform database optimizations. ",
+                        "Maintain data integrity and security. "
+                    ]       
+                },
+                {
+                    "key": "Agile Development and Continuous Improvement: ",
+                    "value": [
+                        "Participate in an Agile/Scrum development environment, including daily stand-ups and sprint planning. ",
+                        "Monitor performance by building feedback telemetry. Continuously improve development processes and practices. ",
+                        "Develop and maintain build and deployment pipelines using tools such as Azure DevOps or Jenkins ",
+                        "Automate testing and deployment processes to improve efficiency and reliability. "
+                    ]
+                },
+                {
+                    "key": "Qualifications",
+                    "value": [
+                        "Bachelor’s or master’s degree in computer science or related field ",
+                        "8+ years of experience in software development ",
+                        "Strong experience with .NET, C#, and JavaScript ",
+                        "Experience with web development frameworks such as React, or Vue.js . Preferred React.",
+                        "Experience with SQL Server or other relational databases ",
+                        "Experience with DevOps practices such as Continuous Integration and Continuous Deployment (CI/CD) ",
+                        "Experience with build and deployment pipelines using tools such as Azure DevOps or Jenkins ",
+                        "Experience with containerization technologies such as Docker and Kubernetes ",
+                        "Experience with API development using RESTful or SOAP protocols ",
+                        "Strong understanding of API security, scalability, and performance ",
+                        "Excellent problem-solving and analytical skills ",
+                        "Ability to work independently and in a team environment ",
+                        "Excellent communication and interpersonal skills "
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "genpact",
+            "position": "Process Associate",
+            "req_experience": "freshers",
+            "link": "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=BFS034982&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta",
+            "company_logo": "https://jobshot.online/gifs/genpact.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "HYD",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value": [
+                        "With a startup spirit and 115,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. We dream in digital, dare in reality, and reinvent the ways companies work to make an impact far bigger than just our bottom line. We’re harnessing the power of technology and humanity to create meaningful transformation that moves us forward in our pursuit of a world that works better for people. Now, we’re calling upon the thinkers and doers, those with a natural curiosity and a hunger to keep learning, keep growing., People who thrive on fearlessly experimenting, seizing opportunities, and pushing boundaries to turn our vision into reality. And as you help us create a better world, we will help you build your own intellectual firepower. Welcome to the relentless pursuit of better."
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Collect the delinquent amount from the customer over the phone or take promises from them on making the payment",
+                        "Make collection calls to the customers, emailing/faxing invoices or getting hard copies mailed out to customers as per their requests also Reconcile orders to match customer books, including validating credits or debits and sending them to customer for collection or refund and Follow up on customer/internal disputes, customer questions and working between departments to get a resolution",
+                        "Inbound & outbound calling",
+                        "Provide payment plans basis customer requirement",
+                        "Maintain a deep understanding of client process and policies"
+                    ]
+                },
+                {
+                    "key": "Required Qualifications:",
+                    "value": [
+                        "Graduate (in any stream)",
+                        "Excellent Communication Skills (verbal and written)"
+                    ]
+                },
+                {
+                    "key": "Preferred qualifications",
+                    "value":[
+                        "Good customer handling skills",
+                        "High Energy level ",
+                        "Effective probing skills and analyzing / understanding skills",
+                        "You should be able to work on a flexible schedule (including weekend shift)"
+                    ]       
+                }
+            ]
+        },
+        {
+            "company_name": "Microsoft",
+            "position": "Senior Software Engineer",
+            "req_experience": "5+ years",
+            "link": "https://jobs.careers.microsoft.com/global/en/job/1702410/Senior-Software-Engineer",
+            "company_logo": "https://jobshot.online/gifs/microsoft.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Overview",
+                    "value": [
+                        "Microsoft bets on Artificial Intelligence (AI) as the next growth opportunity for the company. OpenAI, Mistral, and other Large language Model (LLM) driven innovations are happening throughout the industry. Azure AI is focused on building a platform that makes it easy for both first party Microsoft teams and third-party customers to build cutting edge applications on top of these large language models.",
+                        "The Back Plane team in Azure Machine Learning is looking for a senior software engineer who loves to build scalable, highly available, and secure microservices that run in Kubernetes. The infrastructure team focuses on managing a large fleet of Azure Kubernetes Services (AKS) that represents the control plane for AzureML."
+                    ]
+                },
+                {
+                    "key": "The team focuses on:",
+                    "value": [
+                        "Managing Kubernetes Cluster Deployments at Scale",
+                        "Secure Control Plane assets from malicious attacks and unauthorized access using industry standard tools and frameworks",
+                        "Automate Monitors and critical alerts using best in class observability tools such as: Azure Monitor, Prometheus, Azure Data Explorer, Grafana",
+                        "Automate CI/CD deployments using YAML builds and releases"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "Design, implement, and support scalable, reliable, high-performance services",
+                        "Write clean and concise code with unit tests",
+                        "Design, implement, and support new features as well as extend existing systems",
+                        "Investigate live site issues and implement and deploy fixes",
+                        "Participate in an on-call rotation",
+                        "Drive quality engineering via code reviews and design discussions"
+                    ]
+                },
+                {
+                    "key": "Required Qualifications:",
+                    "value": [
+                        "Object oriented design fundamentals",
+                        "Bachelor’s degree in computer science",
+                        "5+ years of experience with coding in one of C#, Python, Go, Rust, Java, C or C++",
+                        "Experience with improving service operations or engineering fundamentals",
+                        "Excellent collaboration skills, team player, thrive to make a difference",
+                        "Excellent architecture and design skills"
+                    ]
+                },
+                {
+                    "key": "Preferred Qualifications:",
+                    "value": [
+                        "Prior experience using docker or Kubernetes in building large scale cloud services, distributed systems, or operating systems",
+                        "Understanding of Microservices architecture, Docker, K8s, NGINX, Observability (Logs, Metrics, etc..), Network Layer protocols is a plus",
+                        "Experience programming GPUs (graphics processing units), CUDA/cuDNN/NCCL - a plus"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "accenture",
+            "position": "Associate",
+            "req_experience": "0-1 years",
+            "link": "https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01513200_en",
+            "company_logo": "https://jobshot.online/gifs/accenture.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "HYD",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About Accenture",
+                    "value": [
+                        "Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song— all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com"
+                    ]
+                },
+                {
+                    "key": "What would you do",
+                    "value": [
+                        "Accenture is a trusted, innovative, comprehensive, and experienced partner to leading platform companies. The Trust and Safety offering within Accenture Operations helps keep the internet safe and helps platform companies accelerate, scale, and improve their businesses. Content moderators serve as an important line of defence by helping improve the quality and safety of online content while gaining hands-on job experience. You will deliver value to our clients, while making a larger impact on society. You will be responsible for analysing and reviewing user profiles, audio, videos, and text-based content and/or investigating, escalating and/or resolving issues that are reported by users or flagged by the system. Due to the nature of the role, the user may be exposed to flashing lights or contrasting light and dark patterns. Content moderation is meaningful work that helps keep the internet safe. It may also be challenging, at times. In the context of this role, individuals may be directly or inadvertently exposed to potentially objectionable and sensitive content (e.g., graphic, violent, sexual, or egregious). Therefore, content moderators need strong resilience and coping skills. We care for the health and well-being of our people and provide the support and resources needed to perform their job role responsibilities. Active participation in Accenture’s well-being support program, designed specifically for the Trust & Safety community, provides valuable skills to promote individual and collective well-being."
+                    ]
+                },
+                {
+                    "key": "What are we looking for",
+                    "value": [
+                        "Results orientation •Written and verbal communication •Detail orientation"
+                    ]
+                },
+                {
+                    "key": "Responsibilities",
+                    "value": [
+                        "In this role you are required to solve routine problems, largely through precedent and referral to general guidelines • Your primary interaction is within your own team and your direct supervisor • In this role you will be given detailed instructions on all tasks • The decisions that you make impact your own work and are closely supervised • You will be an individual contributor as a part of a team with a predetermined, narrow scope of work • Please note that this role may require you to work in rotational shifts"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "PhonePe",
+            "position": "Specialist - Programmatic Ads",
+            "req_experience": "0-2 years",
+            "link": "https://www.phonepe.com/careers/jobs/Specialist---Programmatic-Ads-(Contract)-/5914933003",
+            "company_logo": "https://jobshot.online/gifs/phonepe.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About PhonePe Group",
+                    "value": [
+                        "PhonePe is India’s leading digital payments company with 50 crore (500 Million) registered users and 3.7 crore (37 Million) merchants covering over 99% of the postal codes across India. On the back of its leadership in digital payments, PhonePe has expanded into financial services (Insurance, Mutual Funds, Stock Broking, and Lending) as well as adjacent tech-enabled businesses such as Pincode for hyperlocal shopping and Indus App Store which is India's first localized App Store. The PhonePe Group is a portfolio of businesses aligned with the company's vision to offer every Indian an equal opportunity to accelerate their progress by unlocking the flow of money and access to services."
+                    ]
+                },
+                {
+                    "key": "About the role:",
+                    "value": [
+                        "Looking for a Specialist to support the creative review process for Programmatic Ads. The Core responsibility of the role will be to work with team members to Review, identify quality problems, and improve Creative quality. Investigate and diagnose creative quality issues, track down components, recommend corrective actions."
+                    ]
+                },
+                {
+                    "key": "Responsibilities:",
+                    "value": [
+                        "Able to review the programmatic Ads creative",
+                        "Should have a good knowledge on various product lines",
+                        "Ready to own specific category and identify repeated quality errors.",
+                        "Create case study for management to take decisions",
+                        "Conduct/participate in calibration sessions and help ensure alignment across all team members"
+                    ]
+                },
+                {
+                    "key": "Basic Qualification/Requirements:",
+                    "value": [
+                        "Excellent communication Skills",
+                        "Any Degree preferred",
+                        "Fresher or Max 2 years’ overall experience.",
+                        "Knowledge on Ads industry will be a plus.",
+                        "Rotational week-off (Required support on weekends)"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Paytm",
+            "position": "Product Analytics- Intern- Recharges & Utilities",
+            "req_experience": "college grads",
+            "link": "https://jobs.lever.co/paytm/a24ee48b-8a81-42bb-85a6-bf12361508bb",
+            "company_logo": "https://jobshot.online/gifs/paytm.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "hybrid",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Title",
+                    "value": [
+                        "Product  Analytics; Intern – Recharges & Utilities"
+                    ]
+                },
+                {
+                    "key": "About Us: ",
+                    "value": [
+                        "Paytm is India's leading financial services company that offers full-stack payments & financial solutions to consumers, offline merchants and online platforms. The company is on a mission to bring half a billion Indians into the mainstream economy through payments, commerce, banking, investments, and financial services. Its investors include Softbank, Ant Financial, AGH Holdings, Elevation Capital, Berkshire Hathaway, T Rowe Price, and Discovery Capital."
+                    ]
+                },
+                {
+                    "key": "About the role:",
+                    "value": [
+                        "We are looking for a self-motivated individual within the Product team  who should be responsible for Data Extraction, basic analysis & support existing Product Analyst team. "
+                    ]
+                },
+                {
+                    "key": "Requirements:",
+                    "value": [
+                        "Basic SQL Knowledge",
+                        "Intermediate - Advance Excel knowledge",
+                        "Should be able to do competitive analysis.",
+                        "Should be able to present basic reports. "
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Google",
+            "position": "Software Engineer III, AI/ML Machine Learning, Core",
+            "req_experience": "2+ years",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/140744153202860742-software-engineer-iii/",
+            "company_logo": "https://jobshot.online/gifs/google.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "remote",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Minimum qualifications:",
+                    "value": [
+                        "Bachelor’s degree or equivalent practical experience.",
+                        "2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.",
+                        "2 years of experience with data structures or algorithms in either an academic or industry setting."
+                    ]
+                },
+                {
+                    "key": "Preferred qualifications:",
+                    "value": [
+                        "Master's degree or PhD in Computer Science or related technical fields.",
+                        "2 years of experience building and developing large-scale infrastructure, distributed systems or networks, and/or experience with compute technologies, storage, and/or hardware architecture.",
+                        "Experience developing accessible technologies.",
+                        "Programming Skills: Proficiency in one or more programming languages commonly used in software development, such as Python, Java, or C++. Experience with version control systems (e.g., Git) and software development tools (e.g., IDEs, CI/CD pipelines) is highly desirable.",
+                        "AI/ML Expertise: Strong hands-on experience in developing and deploying AI/ML models and algorithms"
+                    ]
+                },
+                {
+                    "key": "Key Responsibilities",
+                    "value": [
+                        "Develop AI/ML Solutions: Experiment, fine tune, and deploy AI/ML models and develop AI/ML applications that optimize developer productivity, streamline development workflows, and automate repetitive tasks. This may include test code generation, debugging assistance, and other productivity-enhancing tools.",
+                        "Documentation and Communication: Prepare comprehensive technical documentation, including model architectures, algorithms, and implementation details. Present findings, results, and recommendations to both technical and non-technical stakeholders in a clear and concise manner.",
+                        "Model Training and Evaluation: Collect and preprocess data, build and train AI/ML models using various algorithms and techniques, and evaluate their performance. ",
+                        "Collaboration: Work closely with cross-functional teams, including software developers, data scientists, product managers, and UX designers, to understand their needs and pain points. Collaborate effectively to define and implement AI/ML solutions that address these challenges and improve overall developer productivity."
+                    ]
+                },
+                {
+                    "key": "Skills ",
+                    "value": [
+                        "Good understanding of the REST APIs, request-response structures, error and status codes",
+                        "Good Knowledge of SQL and DB scripting",
+                        "Should have worked more on developing backend tools or frameworks to test Rest APIs, microservices, data migration, failover scenarios, blue green or canary deployment procedures",
+                        "Strong knowledge of CI/CD principlesStrong understanding of Shift Left principles",
+                        "Ability to build distributed system for performance and scale testing",
+                        "Experience in working or testing within a distributed heterogeneous microservices architecture",
+                        "Hands on with caches, such as Aeropsike, DynamoDB, Elastic Search, Hadoop, Cassandra, Kafka",
+                        "Experience with Amazon AWS or similar cloud providers",
+                        "Experience in industry best practices in SW development processes: Unit testing, OOPS, design, code reviews etc.",
+                        "Hands on with linux commands and shell scripts",
+                        "Good knowledge on building and publishing POCs"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Hotstar",
+            "position": "Software Development Engineer Test II",
+            "req_experience": "experienced",
+            "link": "https://jobs.lever.co/hotstar/201e656f-a46d-4752-961e-b8c3e8b912e3",
+            "company_logo": "https://jobshot.online/gifs/hotstar.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "BLR",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Summary :",
+                    "value": [
+                        "In this role, you will work with teams that are responsible for the Discovery experience including the Home page, Details page, and Search. CEX manages every aspect of the customer journey from signup to showcasing and viewing personalized content. We build fast and intuitive experiences for every segment of users, ranging from personal viewing on Mobile Phones to building living room experiences for families. Our experiences are backed by multiple distributed services scaling to serve 150+ million users. Our services are multi-tenant, allowing us to operate in multiple countries in a seamless manner. We innovate on behalf of the customer through experimentation and data-backed decisions."
+                    ]
+                },
+                {
+                    "key": "About the team",
+                    "value": [
+                        "The QE team in Discovery builds Test automation, frameworks, synthetic test data engines, test orchestrators, and simulators to accelerate testing in a shift-left world. We build tests at scale across all our apps, middleware, and microservices. We work in collaboration with other Quality, DevOps, and development teams to build a world-class test infrastructure that enables the company to release fast and release often."
+                    ]
+                },
+                {
+                    "key": "Key Responsibilities",
+                    "value": [
+                        "You will build highly scalable test frameworks, systems, and infrastructure that can scale to thousands of tests per day",
+                        "You will contribute to making tests automation results supremely reliable and trustable to the extent of enabling hands-free releases ",
+                        "You will contribute in an individual capacity to deliver innovative solutions to complex test automation challenges",
+                        "You will work closely with Product, UX, and Development teams to execute and deliver with high quality on the vision, and roadmap to develop discovery experiences across Mobile, Web, and Living Room devices. These experiences have to be highly performant, personalized, engaging and relevant to potentially 300+ million users",
+                        "You will collaborate with stakeholders from across functions to keep the Quality team in sync with all functions and overall business objectives",
+                        "You will guide your peers in developing Quality Engineering roadmaps and test systems to drive product quality, then identify, plan, and execute projects to support the Quality goals",
+                        "You will be part of the CEX Org QE team, where the CEX Discovery team of 50+ engineers across Home and Details UX, Personalization, and Search, enabling customers in multiple countries to discover content across the thousands of titles available in various genres and languages"
+                    ]
+                },
+                {
+                    "key": "Skills ",
+                    "value": [
+                        "Good understanding of the REST APIs, request-response structures, error and status codes",
+                        "Good Knowledge of SQL and DB scripting",
+                        "Should have worked more on developing backend tools or frameworks to test Rest APIs, microservices, data migration, failover scenarios, blue green or canary deployment procedures",
+                        "Strong knowledge of CI/CD principlesStrong understanding of Shift Left principles",
+                        "Ability to build distributed system for performance and scale testing",
+                        "Experience in working or testing within a distributed heterogeneous microservices architecture",
+                        "Hands on with caches, such as Aeropsike, DynamoDB, Elastic Search, Hadoop, Cassandra, Kafka",
+                        "Experience with Amazon AWS or similar cloud providers",
+                        "Experience in industry best practices in SW development processes: Unit testing, OOPS, design, code reviews etc.",
+                        "Hands on with linux commands and shell scripts",
+                        "Good knowledge on building and publishing POCs"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Zoho Corp",
+            "position": "Web Developers",
+            "req_experience": "0+ years",
+            "link": "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913786",
+            "company_logo": "https://jobshot.online/gifs/zoho.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "Chennai",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Job Information",
+                    "value": [
+                        "Country: India",
+                        "Industry: Technology"
+                    ]
+                },
+                {
+                    "key": "Job Description",
+                    "value": [
+                        "Develop new components based on design specs.",
+                        "Work independently and write maintainable code.",
+                        "Understand existing code and suggest optimization in terms of functionality and performance.",
+                        "Work on client frameworks for caching and develop reusable components."
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "nvidia",
+            "position": "Software Engineer",
+            "req_experience": "college grads",
+            "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Tegra-System-Software-Engineer---New-College-Graduate_JR1980211",
+            "company_logo": "https://jobshot.online/gifs/nvidia.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "Pune",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "About Us",
+                    "value": [
+                        "We are now looking for a Tegra System Software Engineer! Our team works on developing System Software drivers for Tegra processors used in Automotive and Embedded products, and Nvidia chips used in Server markets. We develop software drivers for Security and Memory Management on NVIDIA Tegra and Server chips. We follow a rigorous Software Development Life Cycle needed for Safety and Security compliance of Autonomous cars and machines.",
+                        "Our team also works with several working-groups in the organization to define and improve our processes to efficiently achieve Safety and Security standards needed for our products. We are also working on software tools that make use of Generative AI to help with automating certain work products needed for Safety and Security compliance of Autonomous vehicles."
+                    ]
+                },
+                {
+                    "key": "What you’ll be doing:",
+                    "value": [
+                        "As a System Software Engineer, the candidate will be responsible for developing and supporting software solutions in the areas of Security and Memory Management",
+                        "The candidate will also be responsible to work on making the SW compliant to Automotive Safety and Cyber Security standards.",
+                        "The candidate will work side by side with NVIDIA engineers around the world, as an equal member of a multi-site project team.",
+                        "The candidate has to be highly motivated, enthusiastic, proactive to achieve high quality software deliveries. ​"
+                    ]
+                },
+                {
+                    "key": "What we need to see: ",
+                    "value": [
+                        "Strong academic background",
+                        "M. Tech. or B. Tech. in Computer Science or E&C",
+                        "Good understanding of programming languages and processor architecture",
+                        "Good understanding of Operating System Fundamentals.",
+                        "Knowledge of Linux kernel is a plus",
+                        "Strong C/C++ programming skills",
+                        "Knowledge of scripting (Perl or python) is a plus",
+                        "Candidates should have a solid background in",
+                        "Operating System, Algorithm development",
+                        "Knowledge on Object-oriented programming is highly a plus in C / C++ Or Java",
+                        "Aptitude in innovative and optimal designs"
+                    ]
+                }
+            ]
+        },
+        {
+            "company_name": "Seagate",
+            "position": "Intern - Research Intern ML",
+            "req_experience": "college grads",
+            "link": "https://seagatecareers.com/job/Pune-Intern-Research-Intern-ML/1141151200/",
+            "company_logo": "https://jobshot.online/gifs/seagate.gif",
+            "skill_vis_check": false,
+            "req_skills": "", 
+            "location": "Pune",
+            "status": "open",
+            "job_type": "software",
+            "job_description": [
+                {
+                    "key": "Role description",
+                    "value": [
+                        "Work full time on projects at Pune in assisting Seagate Research Architect/leads in the area of most cutting-edge research in data driven decision making using AI/ML techniques. Your work includes but would not be limited to, survey and process public and enterprise forums to help build models around these technologies, generate new ideas and conceptualize them and with the help of senior engineers in the team, contribute to the development of architecture towards building proofs of concepts",
+                        "Research/ investigate emerging technologies in storage components and system, Data creation models and storage security",
+                        "Document current and future storage architectures for different applications",
+                        "Provide research intelligence for future Seagate products or create reference architectures",
+                        "Work with subject matter experts at all Seagate (worldwide) sites",
+                        "Create internal and external research papers and work with your affiliated school to bring academic research in these areas for applications in storage industry"
+                    ]
+                },
+                {
+                    "key": "About you:",
+                    "value": [
+                        "Creative, independent and self-starter individual with excellent written and interpersonal communication who would be looking forward to work in corporate set up",
+                        "Must be authorized to work in India while pursing education",
+                        "Teamwork is a core competency at Seagate, individual must be able to work and communicate effectively with a diverse group of engineers",
+                        "Must have demonstrated ability to study a functional area in depth.",
+                        "Ability to present to colleagues and partners",
+                        "Student from a reputed engineering and/or science institute in the area of Computer Sciences and Engineering and/or Business Analytics"
+                    ]
+                },
+                {
+                    "key": "Your experience includes:",
+                    "value": [
+                        "Working knowledge of Python and Linux or Windows Operating Systems",
+                        "Some exposure to new techniques such as MLOps is desirable"
+                    ]
+                }
+            ]
+        }
+    ]
+}
