@@ -1,0 +1,1856 @@
+
+{
+    "data": 
+    [
+        {
+            "key": "Google | L3 ",
+            "company": "Google",
+            "value": [
+                {
+                    "key": "Current Experience",
+                    "value": "2+ years experience"
+                },
+                {
+                    "key": "Position",
+                    "value": "GOOGLE L3"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "2024"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "ROUND-1",
+                            "value": [
+                                "Feedback: Strong Hire (Positive)",
+                                "Question: Find the maximum length subarray where all elements are equal to a given key.",
+                                "Example: Given array a = [1,2,2,1,3,4,5,2,3,2,2,2] and key 2, the maximum length of the subarray containing only 2 is 3 (last three elements).",
+                                "Query Task: Find the maximum length of subarray for each queried key.",
+                                "Example: For keys [1,2,3] in array a, return [1,3,1].",
+                                "Additional Task: Find the maximum length of a subarray with at most k different elements apart from the key."
+                            ]
+                        },
+                        {
+                            "key": "ROUND-2",
+                            "value": [
+                                "Feedback: Hire (Positive)",
+                                "Question: Decode strings in an n-ary tree.",
+                                "Example: Given the tree structure:",
+                                "A",
+                                "/ B(Hi) C",
+                                "/ D(I) E(am)",
+                                "Every leaf is linked to a decoded string. Paths from root to leaf have decoded values.",
+                                "Input: String to decode; return 'Invalid' if not possible.",
+                                "Example: 'ABABACDACE' → 'HiHiIam', 'ABCBACE' → Invalid'."
+                            ]
+                        },
+                        {
+                            "key": "ROUND-3",
+                            "value": [
+                                "Feedback: Lean Hire (Negative)",
+                                "Question: Sort an array where elements are sorted based on the first 28 most significant bits.",
+                                "Example: Given array [1,3,2,4,10,9], sort it as [1,2,3,4,9,10].",
+                                "My Approach: Used counting sort with O(n) time complexity, but was marked negative for using unnecessary space by storing 32 bits."
+                            ]
+                        },
+                        {
+                            "key": "Recruiter's Response:",
+                            "value": [
+                                "Recruiter mentioned slim chances of team matching within 1 to 2 months despite my positive feedback."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "Reflection and Advice:",
+                    "value": [
+                        "Despite feeling positive about my performance, the actual feedback varied. It's important to acknowledge the nuances recruiters consider beyond technical proficiency. Here are some suggestions:",
+                        "Stay Hopeful: While feedback indicates challenges, teams may value different strengths. Continue engaging with the process optimistically.",
+                        "Reflect and Improve: Assess feedback constructively. Consider refining approaches to align with Google's expectations, especially in space complexity management.",
+                        "Patience and Preparation: Await team matching with patience. Use this time to enhance skills and readiness for future opportunities."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Intuit | SE2 | Bangalore | July 2023 [Reject]",
+            "company": "Intuit",
+            "value": [
+                {
+                    "key": "Current Experience",
+                    "value": "1.4 years experience, SE at ThoughtWorks"
+                },
+                {
+                    "key": "Position",
+                    "value": "SE2 Backend at Intuit"
+                },
+                {
+                    "key": "Location",
+                    "value": "Bangalore"
+                },
+                {
+                    "key": "Date",
+                    "value": "July 2023"
+                },
+                {
+                    "key": "Source",
+                    "value": "this opportunity from Instahyre and then asked for Referral from LinkedIn."
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online coding test",
+                            "value": [
+                                "Comprised of 5 MCQ questions and 2 coding question. Difficulty of Coding Question was LC medium"
+                            ]
+                        },
+                        {
+                            "key": "Screening Round (Around 1hr)",
+                            "value": [
+                                "Started with Introduction then I got one question of Kadan's Algorithm followed up with one variation of same.Then he asked question from Java,Reacts JS,Basic Backend Concept",
+                                "After this round I got call from HR saying that u are not fit for FullStack Role we can consider you for Backend Role ."
+                            ]
+                        },
+                        {
+                            "key": "Technical + Craft question round (1.5 hour)",
+                            "value": [
+                                "A question was sent 2 day earlier to be solved and discussed on Craft Round day. The problem Statement was to Design a URL Shortener with lots of requirement .",
+                                "A lot of questions were asked related to Design,DB selection,API's Design,Handling Exceptions,Design Pattern,hashing algorithm,HLD concepts and a lot."
+                            ]
+                        },
+                        {
+                            "key": "Technical Round(1 hour)",
+                            "value": [
+                                "Started with 1 coding question : https://leetcode.com/problems/sliding-window-maximum/description/.",
+                                "Questions on REST API, OOP,Again from Craft demo design,My Current project,DB indexing,Sharding,Load Balancer."
+                            ]
+                        },
+                        {
+                            "key": "Technical Interview(45 min)",
+                            "value": [
+                                "There were 3 easy coding question and 1 LLD. The code had to compiled and executed",
+                                "Q1.https://leetcode.com/problems/reverse-nodes-in-k-group/",
+                                "Q3 : https://leetcode.com/problems/diameter-of-binary-tree/",
+                                "Then some question related to Core Java, Spring,Springboot,Spring MVC,ORM,CMP theorm,Caching,Messaging Queue."
+                            ]
+                        },
+                        {
+                            "key": "HM round(30 mins)",
+                            "value": [
+                                "Discussion about previous projects and situation based questions.",
+                                "Questions about why I wanted to change my current org and other standard behavioural questions.",
+                                "r4-p3"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "Tips:",
+                    "value": "Got the call 10 min later once all the rounds were over. The interviews went smooth.Recruiter told me that since you have less experience and we are looking for someone who is having more that 2.5 yrs of Experience so for now we can keep you on hold . Overall experience was great."
+                },
+                {
+                    "key": "verdict",
+                    "value": "Reject"
+                }
+            ]
+        },
+        {
+            "key": "Amazon Interview Experience for SDE-1(Off-Campus) 2022",
+            "company": "Amazon",
+            "value": [
+                {
+                    "key": "Current Experience",
+                    "value": "NA"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "June – July 2022"
+                },
+                {
+                    "key": "Source",
+                    "value": "I applied via a referral. I received a phone call from the recruiter who asks me about my current location and interests"
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assessment Round: Platform: HackerRank.",
+                            "value": [
+                                "Assessment consists of two sections:",
+                                "Coding Challenge – It consists of two easy coding problems that you need to solve in 105 minutes alongwith explaining the approach and time complexity. I don’t remember the exact problems, but the topic covered was generally arrays(insertion in sorted array using binary search, sorting array based on a condition).",
+                                "Amazon Work Style Survey – This takes approx. 10-15 minutes to be completed and contains questions to assess your work ethics and principles. It also tests how you approach work in general and whether you are a good fit for the company as per Amazon Leadership Principles. Each question consists of two parts where you have to choose from options like most like me, somewhat like me, etc.",
+                                "The next day I received a mail that I successfully passed the online assessment round and got information about the next three rounds along with some preparatory materials and tips. My next two rounds were scheduled on the same day with a gap of around 3-4 hours between them."
+                            ]
+                        },
+                        {
+                            "key": "Technical Round 1 (60 minutes)",
+                            "value": [
+                                "Initially, the interviewer introduced himself and asked me to do the same. Then he asked me to explain a situation where I learned something new or from scratch. This discussion took 5 minutes. After that interviewer jumped to the coding question.",
+                                "Question 1:  Devise a sorting algorithm",
+                                "I started with a brute force algorithm and the interviewer asked me to think of an optimized way. After some hints, I was able to solve it using heap and wrote the code for the same. I accidentally made a mistake which I corrected on a dry run myself. ",
+                                "Question 2:  <a href='https://leetcode.com/problems/race-car/' > <b> https://leetcode.com/problems/race-car/ </b> </a>",
+                                "I tried to write a DP solution but wasn’t able to come up with a working solution. The interviewer provide some hints but I wasnt able to connect the dots. Due to question 2, I got negative feedback from this round."
+    
+                            ]
+                        },
+                        {
+                            "key": "Technical Round 2 (60 minutes)",
+                            "value": [
+                                "After introducing each other, the interviewer jumps to the coding problems.",
+                                "Question 1: The problem was a simple one based on hash maps and I was able to provide 3-4 different ways to solve the problem. Then interviewer slightly modified some conditions, but after some time I came up with an optimized approach.",
+                                "Question 2:  Slight variant of Burn the binary tree",
+                                "I was able to solve it but quoted a wrong time complexity initially. After coding problems, as there was still some time, I asked the interviewer about the company and the project they work on. After 2-3 days, I was told that I can proceed with the next round."
+                            ]
+                        },
+                        {
+                            "key": "Hiring Manager Interview (45 minutes)",
+                            "value": [
+                                "I received a mail to provide some preferable slots for this round. The interview was scheduled after a week. After introducing himself, he asked me some questions about the projects I had worked on till now. After this discussion, the interviewer asked me to solve two simple problems, but he asked me to focus on code quality and that the code should be somewhat similar to a production-ready code.",
+                                "I initially wrote a naive working code and modified it later to a clean one. The interviewer asked me to dry run the code and explained the approach. After coding problems, he asked me to ask something I wanted. The interview ended after discussing some Amazon products and their work culture."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "Some Preparation Tips:",
+                    "value": [
+                        "Go through the leadership principles and try to have some stories based on past experiences. Not all principles apply to every role, therefore focus more on the principles relevant to your role.",
+                        "Revise your resume again. Go through the projects and work experiences that you mentioned.",
+                        "Refer to the materials shared – Along with the interview schedule, some interview preparation material is also shared. These tips and materials are specific to Amazon and can help you a lot in understanding the topics you will be assessed on.",
+                        "Try to solve some medium hard problems on leetcode and GeeksForGeeks tagged questions but don’t completely rely on them. Instead, focus on building concepts and writing clean and easily understandable code. "
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Morgan Stanley Interview Experience for SDE 1 | On-Campus 2021",
+            "company": "Morgan Stanley",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": ["Percentage in X and XII : 70% or 7.0 CGPA <br>",
+							  "Pursuing Degree: 8 CGPA<br>",
+							  "No Standing Arrears"]
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "2021"
+                },
+                {
+                    "key": "Source",
+                    "value": "Campus Placement"
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assessment Round: Platform: AMCAT.",
+                            "value": [
+                                "<b>Debugging</b>: This section had 7 questions with a time limit of 20 minutes.",
+                                "<b>Aptitude</b>: This section had 16 questions to be solved in 20 minutes. Questions were mostly from speed distance, direction based, number theory, etc.",
+                                "<b>CSE Fundamentals</b>: This round had around 30 questions based on DBMS, OS, OOPS, Networks.",
+                                "<b>Coding</b>: This section is comprised of 3 coding questions to be solved in 60 minutes. The first question was based on updating a subarray with a certain value and finding the maximum frequency of any value in the array. The second question was a variant of merge intervals and the third question was the minimum cost to make 2 strings identical."
+                            ]
+                        },
+                        {
+                            "key": "Technical Round 1 (1 hr)",
+                            "value": [
+                                "I was asked to introduce myself and then he started asking questions related to Java-like what is an inner class and told me to code it.",
+                                "Next, I was asked about access modifiers and constructor chaining in Java, virtual memory, semaphores, the difference between threads and process, 2 NF, SQL queries for finding the Second Maximum value in a column and finding Nth Maximum value in a column and query related to GROUP BY",
+                                "Next, he told me to check for a balanced tree <a href='https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1'> https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1 </a>. The last question was to find maximum profit where we are given n-days with n-cost of mangoes and maximum profit had to be found if a person buys mangoes on a day and sells it on any other day after he bought them. It was a basic array question."
+							]
+                        },
+                        {
+                            "key": "Technical Round 2 (60 minutes)",
+                            "value": [
+                                "I was asked to code a parking lot system design provided there are N floors with different parking spaces and costs, I had to design classes such that the user has to pay the minimum cost for parking.",
+                                "This went for around 40 minutes and then he asked me to explain my project and the ML algorithms used."
+                            ]
+                        },
+                        {
+                            "key": "HR Interview (45 minutes)",
+                            "value": [
+                                "Asked more situation based questions",
+								"What is an ideal job for u?",
+								"Why u will be an asset to Morgan Stanley?",
+								"About family",
+								"Why u took it CSE?",
+								"Core values of Morgan Stanley",
+								"How will u handle it if u were assigned a project which is not your domain?"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "JP Morgan | Internship | Interview Experience | 2021",
+            "company": "JP Morgan Chase & Co.",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": ["Percentage in X and XII : 70% or 7.0 CGPA",
+							  "Pursuing Degree: 7 CGPA & No Backlog [For Application Process]"]
+                },
+                {
+                    "key": "Position",
+                    "value": "Intern"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "2021"
+                },
+                {
+                    "key": "Source",
+                    "value": "Campus Placement"
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assessment Round: Platform: Hackerrank.",
+                            "value": [
+                                "This round consist of 2 coding questions.",
+                                "Total time to complete the questions was 75 min.",
+								"It was mandatory to attempt both the questions.",
+								"<b>Q1. </b> Minimum steps to find the target string in a circular array.",
+								"<b>Q2. </b> <a href='https://www.geeksforgeeks.org/decimal-equivalent-of-binary-linked-list/'>Decimal Equivalent of Binary Linked List </a>"
+							]
+                        },
+                        {
+                            "key": "Online Video Interview Round",
+                            "value": [
+                                "There were 2 behavioral-based questions, flashed on screen one after the other.",
+                                "It was a recorded video interview, and you can retake your video but only once for each video. You will be given 30 secs to prepare for each question, and then you can start recording your answer",
+								"<b>For this round you need to dress in formal and be honest</b>"
+							]
+                        },
+                        {
+                            "key": "Code for Good Hackathon",
+                            "value": [
+                                "The Hackathon was conducted Virtually all over the country (India). ",
+                                "All the selected candidates are divided into a team of 6-7 members by the host.",
+								"There are some Workshop Sessions [2 Day Prior to the Actual Hackathon] on Topics like Hackathon Survival Guide, Hackathon Tool Preparation [Trello], FLARE Workshop, Power of Empathy in Coding."
+                            ]
+                        },
+                        {
+                            "key": "Final Hackathon (2 days)",
+                            "value": [
+                                "On the day of the hackathon, there were be 5 problem statements given by different NGOs connected to the company. ",
+								"Around 10 mins are given to all the teams to order their interesting statements (It is like Fastest Finger First). Once the time is over they will let you know the problem statement you are Allotted with"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Cohesity || may 2023",
+            "company": "Cohesity",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "2+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Software Engineer"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "source",
+                    "value": "applied through career page"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Technical interview - 1",
+                            "value": [
+                                "This round was started with self intro and then interviewer goes through my resume.",
+								"he asked questions based on my project which was mentioned in resume.",
+								"Then he asked me about my current project and what was my part and my contribution to the project.",
+								"After the he asked me any question for him."
+							]
+                        },
+						{
+                            "key": "Interview Round - 2",
+                            "value": [
+								"This round was based on microservice and dockers as they were needed for the position.",
+								"he asked me question related to the advantage of microservice over monolith.",
+								"Then he asked me question based on docker."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3",
+                            "value": [
+								"This round was a DSA round. he asked me 2 DSA questions. ",
+								"<b> Q1. </b> <a href='https://www.baeldung.com/cs/shortest-path-visiting-all-nodes'> Shortest Path Visiting All Nodes </a>",
+								"<b> Q2. </b> <a href='https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1'> Product array puzzle</a>",
+								"After that he asked me any question for him and interview ended."
+							]
+                        },
+						{
+                            "key": "Interview Round - 4 (HR)",
+                            "value": [
+								"This round was a HR round. he asked me behavioral and situation based questions",
+								"After that he asked me some puzzles.",
+								"Then he told me about the job profile and responsibilities they are expecting"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "TCS Digital Interview Questions",
+            "company": "TCS",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": ["must have completed a degree (BE/B. Tech/ME/M. Tech/M. Sc/MCA) in any discipline, maintaining a minimum aggregate of 60% throughout your academic journey"]
+                },
+                {
+                    "key": "Position",
+                    "value": "SE"
+                },
+                {
+                    "key": "Location",
+                    "value": "PAN INDIA"
+                },
+                {
+                    "key": "Date",
+                    "value": "2022"
+                },
+                {
+                    "key": "Source",
+                    "value": "TCS NQT"
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assessment Round",
+                            "value": [
+                                "<b>o.</b> This round consist of 6 coding questions.",
+                                "<b>o.</b> Total time to complete the questions was 6 hrs.",
+                                "<b>o.</b> Out of 6 questions you need to solve atleast 4 question to get interview call."
+							]
+                        },
+                        {
+                            "key": "Technical + HR Round",
+                            "value": [
+                                "Time given to me was 10 AM and after waiting for 3 hrs the panel appears around 1 PM.<br>",
+								"<b>Technical:</b>",
+                                "<b>a.</b> What is JVM?",
+                                "<b>b.</b> Difference between JDK and JRE.",
+								"<b>c.</b> Name various data types in Java.",
+								"<b>d.</b> What is Inheritance and its types.",
+								"<b>e.</b> Why pointers are not there in Java?",
+								"<b>f.</b> What are the advantages of Java?",
+								"<b>g.</b> What are ACID properties?",
+								"<b>h.</b> What is linked list?",
+                                "<br>",
+								"<b>HR:</b>",
+								"<b>a.</b> What is your strength and weakness?",
+								"<b>b.</b> Why TCS?",
+								"<b>c.</b> Any plans for higher education?",
+								"<b>d.</b> Where do you see yourself in 5 years?"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "HPE | Associate SDE | Bengaluru | July 2023",
+            "company": "HPE",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": ["8+ cgpa in 10, 12 and current"]
+                },
+                {
+                    "key": "Position",
+                    "value": "SE"
+                },
+                {
+                    "key": "Location",
+                    "value": "Pune"
+                },
+                {
+                    "key": "Date",
+                    "value": "2023"
+                },
+                {
+                    "key": "Source",
+                    "value": "We were required to go their office. The process was conducted for the entire day."
+                }
+                ,
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Technical Round 1",
+                            "value": [
+                                "Resume was discussed in detail and I explained my projects.",
+                                "3 Questions Asked. 1st was easy (arrays) and 2-3 where medium (binary tree and sliding window) Questions.",
+								"They asked questions regarding OOPS and its pillars. explain the different OOPS concepts.",
+								"Then they asked me questions about Computer Network and OS."
+							]
+                        },
+                        {
+                            "key": "Technical Round 2",
+                            "value": [
+								"This round started with why btech and why CSE. why do you want to join HPE?",
+                                "Then he ask DSA based question (rotating array), its time complexity with some counter testcases",
+								"He asked questions like cache, hash in java and etc.",
+								"Then more details discussion on my projects followed by question for him."
+							]
+                        },
+						{
+                            "key": "HR Round",
+                            "value": [
+								"This round was a bit chill",
+                                "She asked me about my interview process, how does it goes.",
+								"Then she asked me some behavioural and personal questions."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Amazon Interview Experience || SDE-1 || Off Campus || 2021",
+            "company": "Amazon",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "Graduation"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "HYD"
+                },
+                {
+                    "key": "Date",
+                    "value": "2021"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Coding Round",
+                            "value": [
+                                "There was 3 DSA based Coding questions.",
+								"1st was easy(array based), 2nd was medium(binary tree) and 3rd was hard(dp).",
+								"I was able to solve 1st and 2nd completely and partially solved the 3rd question.",
+								"Then I got a mail from their recruiting team that I have cleared this round."
+							]
+                        },
+                        {
+                            "key": "Technical Round 1 (Technical)",
+                            "value": [
+								"This round started with a quick introduction and then started coding question.",
+                                "first question was <a href='https://leetcode.com/problems/longest-valid-parentheses/'>https://leetcode.com/problems/longest-valid-parentheses/</a>",
+								"And the next question was <a href='https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/'>https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/</a>",
+								"He first asked me to explain the approach and then write the code. I did both questions then he asked me the space and time complexities.",
+								"In the end, he asked if I have any questions for him."
+							]
+                        },
+						{
+                            "key": "Technical Round 2(Technical)",
+                            "value": [
+								"This round also started with a quick introduction and then she asked me about my projects.",
+								"Then she asked me coding question",
+                                "first question was <a href='https://leetcode.com/problems/design-circular-queue/'>https://leetcode.com/problems/design-circular-queue/</a>",
+								"And the next question was <a href='https://leetcode.com/problems/lru-cache/'>https://leetcode.com/problems/lru-cache/</a>",
+								"She asked me the approach and then asked me to write the working code for both the questions.",
+								"In the end, she asked if I have any questions for her."
+							]
+                        },
+						{
+                            "key": "Technical Round 3(Managerial)",
+                            "value": [
+								"This round was taken by SDM. He directly jumped to coding questions. He only asked me one question.",
+								"<a href='https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/'>https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/</a>",
+                                "he asked me to explain the approach and then space and time complexity.",
+								"then he asked on question based on LLD and Operating System.",
+								"In the end, he asked me if I have any questions for him.",
+                                "<b>after a week I got a call from recruiter saying that I was selected.</b>"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Oracle | GBU | 2023",
+            "company": "Oracle",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "Graduation"
+                },
+                {
+                    "key": "Position",
+                    "value": "GBU"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "2023"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "(Aptitude and Computer Fundamentals) (2hrs)",
+                            "value": [
+                                "This was an online test conducted on the eLitmus platform.",
+								"<b>></b> Quantitative Aptitude",
+								"<b>></b> Logical Reasoning",
+								"<b>></b> Contextual Communication(English)",
+								"<b>></b> Technical Computer Science",
+								"<b>></b> CS MCQ (C, C++, Java, Python, DSA)",
+								"Some aptitude questions, Comprehension passages, and several flow charts, pseudo-codes were given and asked to predict the output in this round."
+							]
+                        },
+                        {
+                            "key": "Technical Round 1 (Technical)",
+                            "value": [
+								"She asked to tell all the business subjects we had and what did u learn from each subject.",
+                                "String reversal program with code(gave her 3 approaches) and coded up the most optimal approach",
+								"Discussion about my projects like what is the need of the project why did you choose",
+								"Technologies used in it why did we choose particular technologies",
+								"Schema of the database in the project",
+								"Class diagram of the project and how they are linked",
+								"Questions on OS bootstrap program , threads, process vs program, All the scheduling algorithms",
+								"Round Robin problem, all other imp questions in OS",
+								"DBMS questions all the normal forms, ACID properties, Serializability and types SQL vs NOSQL difference. Simple sql query on inner join."
+							]
+                        },
+						{
+                            "key": "Technical Round 2(Technical)",
+                            "value": [
+								"This interview started with self introduction and then interviewer asked basic questions from Resume",
+								"This round questions was mostly based on the internship which I had done,we had a very long discussion on it",
+								"Explaining the projects to the finest detail",
+								"Walkthrough through the UI of the project",
+								"What you could have done better in the project if u do it now .",
+								"OOPS questions overloading vs overriding, inheritance diamond problem"
+							]
+                        },
+						{
+                            "key": "Technical Round 3(Managerial)",
+                            "value": [
+								"Explaining all projects to the highest detail",
+								"Explaining internship work and open source contributions",
+                                "Did u read the JD and what did u understand from the job description. Why Oracle",
+								"Where do u see yourself in the next three years",
+								"Given a choice which team you would choose a team of great developers or a team of average developers",
+								"Higher study plans and why u don't want to go for masters"
+							]
+                        },
+						{
+							"key": "HR Round",
+                            "value": [
+								"Plans on Further Studies",
+								"Willing to Relocate",
+                                "Hobbies",
+								"How do you celebrate if your friend gets placed."
+							]
+						}
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Infosys | HWI | Power Programmer | 2021",
+            "company": "Infosys",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "final year Btech/Mtech/MCA"
+                },
+                {
+                    "key": "Position",
+                    "value": "Power programmer"
+                },
+                {
+                    "key": "Location",
+                    "value": "Pan India"
+                },
+                {
+                    "key": "Date",
+                    "value": "2021"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Screening Round",
+                            "value": [
+                                "This was an online test conducted on the hackerearth.",
+								"This round consist of 3 questions. one of them was easy and the other 2 were medium.",
+								"In order to get pass, out of 3 questions we need to compelete atleast 2 questions."
+							]
+                        },
+                        {
+                            "key": "Online Coding Round",
+                            "value": [
+                                "This was also an online coding test conducted on the hackerearth.",
+								"This round also consist of 3 questions. but this time the questions were advanced.",
+								"1st question was medium and the other 2 were hard.",
+								"Since this round is a competition so you need to score good enough to get pass through this round."
+							]
+                        },
+						{
+                            "key": "Hackathon (online)",
+                            "value": [
+								"After few days (20 days) I got an email regarding that I was able to clear last round and was among the top 100 participants and eligible for the next round and got PPO.",
+								"This round was a hackathon and all the participants were divided into different teams and all the teams got problem statement.",
+								"It was 1 day hackathon so we need to compelete the solution and present it within the time.",
+								""
+							]
+                        },
+						{
+                            "key": "Technical Round 1(1.5hr)",
+                            "value": [
+								"this round was an online discussion round, Interviewer first introduced himself and then asked me to introduce myself.",
+								"Brief discussion on my projects and then asked me about time complexity and difference between big O, omega and theta.",
+                                "After that he asked me DSA(graph) question followed by next palindrome number and time complexity for both.",
+								"Higher study plans and why u don't want to go for masters"
+							]
+                        },
+						{
+                            "key": "Technical Round 2(1 hr)",
+                            "value": [
+								"this round was also an online discussion round, Interviewer first introduced himself and then asked me to introduce myself.",
+                                "Then he asked me 2 DSA (1 string and 1 sliding window) question and time complexity for both.",
+								"after that he asked me any question for him."
+							]
+                        },
+						{
+							"key": "HR Round",
+                            "value": [
+								"Plans on Further Studies",
+								"why infosys",
+                                "Hobbies",
+								"5 years plan, short and long term plan."
+							]
+						}
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Tekion Corp || on campus || Associate Software Developer || 2022",
+            "company": "Tekion Corp",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "final year Btech/Mtech/MCA"
+                },
+                {
+                    "key": "Position",
+                    "value": "Associate Software Developer"
+                },
+                {
+                    "key": "Location",
+                    "value": "Bangaloe"
+                },
+                {
+                    "key": "Date",
+                    "value": "June 2022"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Coding Round",
+                            "value": [
+                                "This was an online test conducted on the hackerearth.",
+								"This round consist of 2 coding questions and 8 MCQs and the total time given for the test was 1.15hr",
+								"Question asked were meduim level.",
+								"first question was <b>minimum jump to reach home</b> and second question was to <b>reverse the linked list from the given index to given index</b>.",
+								"Supported language for both the question was java",
+								"MCQ was based on OS, Computer Network and Basic programming."
+							]
+                        },
+						{
+                            "key": "Technical Interview Round – 1",
+                            "value": [
+								"this round was an online discussion round. they had shared the zoom link with me with the detailed JD and the time slot.",
+								"Interview started with his introduction followed by my intro.",
+								"After intro he shared link of coding question and explained me the question. Then he asked me the approach and then I had to write the working solution in Java",
+                                "there were 2 coding questions that i was supposed to complete with 1 hr.",
+								"<b>Q1.</b> <a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/'>Longest Substring Without Repeating Characters</a>",
+								"<b>Q2.</b> <a href='https://leetcode.com/problems/maximum-subarray/'>Maximum Subarray Sum</a>",
+								"I was able to solve both the problem so after 1 hr i got the call for next round."
+                            ]
+                        },
+						{
+                            "key": "Technical Interview Round - 2",
+                            "value": [
+								"This round was also an online discussion round, this time the link was same.",
+                                "First Interviwer explained me about the company and told me how that interview will be going and what are his expectation.",
+								"Then he asked on 1 coding question. first I need to explain the approach and then implemetation.",
+								"<b>Q.</b> <a href='https://leetcode.com/problems/search-in-rotated-sorted-array-ii/'>Search in rotated sorted array</a>",
+								"Then he asked me some computter fundamentals(OS and CN)",
+								"process scheduling and what are the different scheduling algo.",
+								"what is deadlock and how to handle it. also there were some other questions too ( i dont remember)",
+								"After that he asked me to design a database for hotel management system."
+							]
+                        },
+						{
+							"key": "HR Round",
+                            "value": [
+								"This round was also an online discussion round. I got invitation for this round just 1 hr before the round.",
+								"Tell me about your strong and weak points.",
+								"About Tekion and explained me what they are expecting.",
+                                "Hobbies or any extracurricular activities that i have participated.",
+								"after a week i got an email confirming that i was selected."
+							]
+						}
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Natwest Group || SDE || On-Campus",
+            "company": "Natwest Corp",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "final year Btech/Mtech/MCA"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "Date",
+                    "value": "September 2022"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Resume Shortlisting",
+                            "value": [
+                                "Screening round in which students were shortlisted on the basis of their resume and CGPA.",
+								"280 candidates were shortlisted for the next round."
+							]
+                        },
+						{
+                            "key": "Online Test Round",
+                            "value": [
+								"This round was conducted on AMCAT. It consist of 6 sections with total of 45 MCQ (technical + aptitude) and 2 coding questions.",
+								"Technical questions belongs to the basics of DBMS, OS , Java, and C concepts.",
+								"The coding questions are easy to moderate.",
+								"<b>Q1.</b> <a href='https://leetcode.com/problems/palindrome-number/'>Palindrome Number</a>",
+								"<b>Q2.</b> <a href='https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/'>Smallest window in a String containing all characters of other String</a>"
+							]
+                        },
+						{
+                            "key": "Interview Round",
+                            "value": [
+								"This round was conducted at webex.",
+								"The interviewer were friendly and helpful. The interview started with interviewers intro followed by mine.",
+								"Then he asked me about my one of the project which i had mentioned in my resume.",
+								"Why encryption and What is different type of cryptography techniques? as I had used this in my project.",
+								"Then he asked me some computter fundamentals(OS and CN) and basic of OOPs.",
+								"process scheduling and what are the different scheduling algo.",
+								"After that he asked me to design a database for hotel management system.",
+								"Write a query to find 3rd highest salary of employee",
+								"Then some senario based question and one puzzle. After 2 days I got the list of selected students and i was one of them."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Cohesity || Internship || On-Campus",
+            "company": "Cohesity",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "final year Btech/Mtech/MCA"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "",
+                    "value": "Cohesity came to our campus for 2 month internship. It has 1 online test round and 2 F2F rounds."
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online test round",
+                            "value": [
+                                "This round was conducted on Hackerank.",
+								"There were 2 coding questions and the time was 70 mins.",
+								"<b>Q1.</b> Remove duplicate from sorted Array.",
+								"<b>Q2.</b> Given 2 string s1 and s2. find total number of substring such that s[i .. j]=s[k. . l] and j-i+1 is minimal"
+							]
+                        },
+						{
+                            "key": "Interview Round - 1",
+                            "value": [
+								"This round was one to one.",
+								"Interviewer asked me 1 coding question. Given the root of the tree. checm if it is binary tree or not.",
+								"then some basics of DBMS, OS."
+								]
+                        },
+						{
+                            "key": "Interview Round",
+                            "value": [
+								"This round was also one to one. this starts with quick intro and then he directly jumped into coding question",
+								"<b>Q. </b> Given the root of a binary tree find the diameter of the tree.",
+								"Then one puzzle and what do you know about the company."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "OYO || SDE-2 || BLR || 2023",
+            "company": "OYO",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "2.6+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Software Development Engineer - 2"
+                },
+                {
+                    "key": "Location",
+                    "value": "BLR"
+                },
+                {
+                    "key": "source",
+                    "value": "NA"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Screening Round",
+                            "value": [
+                                "This round was started with self intro and then he asked me to design a visitor management system.",
+								"The System should able to answer the questions like...",
+								"1. Total number of active visitors.",
+								"2. Total number of visitors in a given time range (x - y), etc.."
+							]
+                        },
+						{
+                            "key": "DSA Round",
+                            "value": [
+								"This round was a DSA round. he asked me 2 DSA questions. ",
+								"<b> Q1. </b> <a href='https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1'>Convert array into Zig-Zag fashion</a>",
+								"<b> Q2. </b> <a href='https://www.geeksforgeeks.org/count-smaller-elements-on-right-side/'> Count smaller elements on Right side</a>",
+								"After that he asked me any question for him and interview ended."
+							]
+                        },
+						{
+                            "key": "DSA Round - 2",
+                            "value": [
+								"This round was also DSA round. 2 DSA questions were asked.",
+								"Q1. Shortest Path Visiting All Nodes",
+								"Q2. Minimum number of candies you need to have to distribute the candies to the children",
+								"You are giving candies to these children subjected to the following requirements:",
+								"a. Each child must have at least one candy.",
+								"b. Children with a higher rating get more candies than their neighbors."
+							]
+                        },
+						{
+                            "key": "Interview Round - 4 (HLD/LLD)",
+                            "value": [
+								"This round was started with some CS fundamentals and then she asked me to design Membership prog.",
+								"a. <b>Different tiers</b> - Silver, gold, platinum",
+								"b. Promotions on a tier or time period",
+								"c. Discount on gold + 6/12 months",
+								"d. Promotions count can be limited",
+								"e. Time range for validity"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Cars24 || SDE-1 || WFH || 2021",
+            "company": "Cars24",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "1+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Software Development Engineer - 1"
+                },
+                {
+                    "key": "Location",
+                    "value": "WFH"
+                },
+                {
+                    "key": "source",
+                    "value": "NA"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Screening Round",
+                            "value": [
+                                "This round was started with self intro.",
+								"1. Asked to design Stack Overflow - LLD with ",
+								"a. DB schema",
+								"b. and UML diagram"
+							]
+                        },
+						{
+                            "key": "DSA Round",
+                            "value": [
+								"This round was a DSA round. he asked me 2 DSA questions. ",
+								"<b> Q1. </b> <a href='https://leetcode.com/problems/find-the-town-judge/'>https://leetcode.com/problems/find-the-town-judge/</a>",
+								"<b> Q2. </b> Design Patterns and SOLID Priniciples discussion",
+								"After that he asked me any question for him and interview ended."
+							]
+                        },
+						{
+                            "key": "DSA Round and LLD",
+                            "value": [
+								"This round was also DSA round. 2 DSA questions were asked.",
+								"Q1. Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0",
+								"Q2. LLD of HashMap"
+							]
+                        },
+						{
+                            "key": "Interview Round - 4 (Hiring Manager)",
+                            "value": [
+								"This round was started with some CS fundamentals and then asked questions on ",
+								"1. on current project and cross questions on it.",
+								"2. ACID Properties and use cases with examples",
+								"Some SQL queries.."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Innovaccer || Bangalore || SDE-3 ",
+            "company": "Innovaccer",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "6+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Senior Software Engineer"
+                },
+                {
+                    "key": "Location",
+                    "value": "Bangalore"
+                },
+                {
+                    "key": "source",
+                    "value": "naukri"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Technical Screen (1 hour)",
+                            "value": [
+                                "The interview process was easy. ",
+								"They focused more on current projects, works in every interview. ",
+								"More about infra, AWS, devops, python, django in the first round."
+							]
+                        },
+						{
+                            "key": "Technical Interview - 1",
+                            "value": [
+								"In the second round they asked more about kafka, rabbitmq, celery",
+								"and discussion about current project architecture. ",
+								"Very basics of kafka, rabbitmq vs kafka, why zookeepr etc... also on AWS fundamentals and basics of distributed systems."
+							]
+                        },
+						{
+                            "key": "Interview Round - 2 ",
+                            "value": [
+								"In this round we had discussion about projects, architecture, system design. ",
+								"Then asked a normal database design question for order management system. ",
+								"Q. You have a system where there are products and there are sales people. Customers place orders through sales people. ",
+								"> How do you design database schema for this considering I need to get reports every month. ",
+								"For example, number of orders placed in a month, orders placed through a particular sales person and so on..."
+								
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "HighRadius Interview Experience for ASE",
+            "company": "HighRadius",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "Fresher"
+                },
+                {
+                    "key": "Position",
+                    "value": "Associate Software Engineer"
+                },
+                {
+                    "key": "Location",
+                    "value": "HYD"
+                },
+                {
+                    "key": "source",
+                    "value": "On-Campus placement"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Test",
+                            "value": [
+                                "This round contains both  Aptitude Section and Coding Section.",
+								"There were 35 Aptitude and 3 coding questions.",
+								"The total time for this round was 3.5 hrs.",
+								"Three Codinng questions are: ",
+								"Q1. Find the Index of the First Occurrence in a String",
+								"Q2. Given the roots of two binary trees root1 and root2, write a function to check if they are the same or not.",
+								"Q3. Given a non-negative integer X, return the square root of X rounded down to the nearest integer."
+							]
+                        },
+						{
+                            "key": "Technical Round",
+                            "value": [
+								"After introduction Interviewer asked me about my projects which I had mentions in my resume.",
+								"Then he asked me some CS fundamental questions like... ",
+								"What is the Object Class?",
+								"Explain garbage collection in Java.",
+								"What is the difference between prepared statement and callabel statement?",
+								"and there was some other questions too."
+							]
+                        },
+						{
+                            "key": "HR Interview",
+                            "value": [
+								"This round was the easiest round. Interviewer was asking questions like...",
+								"Location preference",
+								"Details regarding to family background, like how many members are living with me.",
+								"Things I don’t like during the interview process"								
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Groww || SDE-1 || Bangalore",
+            "company": "Groww",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "1.2 years"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "Bangalore"
+                },
+                {
+                    "key": "source",
+                    "value": "referral"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Interview Round - 1",
+                            "value": [
+                                "In this round interviewer directly jump to coding questions.",
+								"He asked 3 coding questions and asked to explain the approch before jumping to the code.",
+								"Q1. Longest Substring having l max distinct character.",
+								"Q2. Given the roots of binary trees root check if it is BST o not.",
+								"Q3. Number of ways to decode string."
+							]
+                        },
+						{
+                            "key": "Interview Round - 2",
+                            "value": [
+								"After introduction Interviewer asked me about my projects which I had mentions in my resume.",
+								"Then he asked me LLD problem ",
+								"He asked me to implement a Group chat App.",
+								"Where an admin can create a max of 3 groups and a user can join max 15 groups. And also admin can add or remove the users from the groups.",
+								"I was able to solve and complete the code within 15mins and then interviwer cross checked the code on some sample testcase.",
+								"and there was some other questions too on that."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3",
+                            "value": [
+								"This round goes for 60 mins. ",
+								"Then he asked me LLD problem here and I was expected to create app like Ganna and spotify",
+								"I need to create songs playlist which users can able to play and also user can create playlist of his choice.",
+								"Discussed about the approach and got to the solution after 25 to 30 mins."
+							]
+                        },
+						{
+                            "key": "Interview Round - 4",
+                            "value": [
+								"This round aslo goes for 60 mins. This round was DSA round where interviewer asked me 2 cosing questions.",
+								"Q1. <a href='https://leetcode.com/problems/median-of-two-sorted-arrays/description/'> Median of Two Sorted Arrays </a>",
+								"Q2. Given a binary matrix filled with 0s and 1s. find the largest rectangle containing only 1's and return its area.",
+								"Was able to solve both the question and got the link for next round."
+							]
+                        },
+						{
+                            "key": "HR Interview",
+                            "value": [
+								"This round also went for 60 minutes and was asked behavioural questions",
+								"and why leaving the current organization.",
+								"Location preference and details like how many members are living with me."								
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "BharatPe || SDE1 || 2022",
+            "company": "BharatPe",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "2 years"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "None"
+                },
+                {
+                    "key": "source",
+                    "value": "applied on career page"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assesmment",
+                            "value": [
+                                "3 coding question were asked and the time limit was 90 mins.",
+								"Q1. find the longest common prefix string amongst an array of strings.",
+								"Q2. Given a nested hashmap and a string of keys separated by delimeter, return the object found at the end of the string if it exists in map or else return null. ",
+								"Q3. Given a signed 32-bit integer x, return x with its digits reversed."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1",
+                            "value": [
+								"Interviewer directly jumped to coding problem.",
+								"There were 2 coding questions asked.",
+								"Q1. Given a string s, find the length of the longest substring without repeating characters.",
+								"Q2. https://leetcode.com/problems/word-ladder-ii/description/",
+								"I was unable to solve the last question. so not able to get to the next round."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Rejected"
+                }
+            ]
+        },
+        {
+            "key": "Meesho || SDE 2 || HYD",
+            "company": "Meesho",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "2.5+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-2"
+                },
+                {
+                    "key": "Location",
+                    "value": "HYD"
+                },
+                {
+                    "key": "source",
+                    "value": "NA"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assesmment (Coding)",
+                            "value": [
+                                "2 coding question were asked.",
+								"Q1. There are a total of x courses you have to take, labeled from 0 to x - 1.",
+								"You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai",
+								"Q2. Container With Most Water"
+							]
+                        },
+						{
+                            "key": "Interview Round - 1 (LLD)",
+                            "value": [
+								"After introduction Interviewer asked to design a social media app.",
+								"Where an users can create a posts and a user can add someone as friend and can create and join groups.",
+								"<a href='https://leetcode.com/discuss/interview-experience/2123855/Meesho-or-SDE-2-or-Offer'> Solution </a>"
+							]
+                        },
+						{
+                            "key": "Interview Round - 2(System Design and Hiring Manager)",
+                            "value": [
+								"This round goes for 60 mins. first he asked me 1 coding question based on tree",
+								"Then he asked me HLD problem based on Twitter news feed.",
+								"then Discussed about the projects which i mentioned in my resume."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "PhonePe || Interview Experience || Software Engineer || 2023",
+            "company": "PhonePe",
+            "value": [
+                {
+                    "key": "Eligibility Criteria:",
+                    "value": "10th and 12th: 50% and above, CGPA: 6 and above (no active backlogs)"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "Pune"
+                },
+                {
+                    "key": "source",
+                    "value": "On Campus placement"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Coding Assesment",
+                            "value": [
+                                "This round had 4 questions with time limit of 90 mins.",
+								"First question was to find the diameter of binary tree.",
+								"Second question was to find the duplicate number given an array of integers of n+1 elements where the value of integers is between 1 to n",
+								"Question 3rd was to swap the node of a linked list in pairs.",
+								"4th question was some dynamic programming question, unable to remember the problem."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1 (DSA)",
+                            "value": [
+								"After introduction Interviewer asked 2 DSA Coding question.",
+								"Q1. <a href='https://leetcode.com/problems/longest-palindromic-substring/description/'>https://leetcode.com/problems/longest-palindromic-substring/description/</a>",
+								"Q2. <a href='https://leetcode.com/problems/container-with-most-water/description/'> Container With Most Water </a>",
+								"First he asked to discuss the approach which i was going to implement and then implementation.",
+								"I was able to solve both the problems so got to the next round"
+							]
+                        },
+						{
+                            "key": "Interview Round - 2 (DSA)",
+                            "value": [
+								"This round goes for 60 mins. This round also has 2 coding problems.",
+								"Q1. Find the min or max frequency element, given the following operations :",
+								"<b> > </b> Add an element.",
+								"<b> > </b> Remove an element.",
+								"<b> > </b> Find the minimum frequency element",
+								"<b> > </b> Find the maximum frequency element.",
+								"then he asked me 0/1 knapsack problem which i knew so had done these two problems also. and got the call for the next round."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3 (Technical + HR)",
+                            "value": [
+								"This round goes for 45 mins. In this round interviewer asked me some CS fundamental questions like...",
+								"<b> > </b> Explain Object Oriented Programming with real world example.",
+								"<b> > </b> Asked some OS related questions.",
+								"<b> > </b> what is the difference between semaphore and mutex.",
+								"<b> > </b> what is deadlock and how can we handle that. and etc.",
+								"<b> > </b> questions based on software life cycle.",
+								"After that she asked me 1 coding question(leetcode medium based on hashmap) followed by some HR questions.",
+								"then explained about the role and kind of workk i was expected to do."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "VISA INC. || On-Campus ",
+            "company": "VISA INC.",
+            "value": [
+                {
+                    "key": "Current Experience",
+                    "value": "1+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Software Engineer"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "source",
+                    "value": "Off-Campus placement"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Coding Assesment",
+                            "value": [
+                                "This round consist of 2 coding questions for 1 hr.",
+								"Q1. Given an array count the total number of triplet whose sum is equal to X.",
+								"Q2. https://leetcode.com/problems/optimal-partition-of-string/description/",
+								"I was able to solve 1st problem and able to pass 60% of testcases for 2nd problem",
+								"Got the mail conntaining the details for the next round."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1 (DSA)",
+                            "value": [
+								"Initially, the interviewer asked me to introduce myself then she went through my resume and asked me some output-based problems (in python)",
+								"and also asked 2 basic coding questions to code in python. Some of the questions are:",
+								"Q1. Given an array of integers arr and an integer x, return indices of the two numbers such that they add up to x.",
+								"Q2. Given a string str consisting of lowercase english letters, return the first letter to appear twice.",
+								"Then she asked me some CS fundamentals and OS.",
+								"I was able to solve both the problems so got to the next round"
+							]
+                        },
+						{
+                            "key": "Interview Round - 2 (DSA)",
+                            "value": [
+								"This round goes for 60 mins. This round also has 2 coding problems.",
+								"This interview started with introduce yourself and Hobbies.",
+								"After that he shared a link containing coding questions.",
+								"Q1. Given the root of a binary tree, return its maximum depth.",
+								"Q2. <a href='https://leetcode.com/problems/time-needed-to-inform-all-employees/'>Time Needed to Inform All Employees</a>",
+								"after that he asked me any question for him."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3 (Technical + HR)",
+                            "value": [
+								"Your biggest achievement in studies after coming to college.",
+								"Why did you choose android app development",
+								"What is a Data Structure? Types of data structures.",
+								"what is the difference between semaphore and mutex.",
+								"Difference between Memset and Memcopy.",
+								"Can a structure point to itself",
+								"what is deadlock and how can we handle that. and etc.",
+								"he asked some other basic questions too. and time was up by then."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Cadence || C++ || 2021",
+            "company": "Cadence",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "1.5+ years"
+                },
+                {
+                    "key": "Position",
+                    "value": "Software Engineer"
+                },
+                {
+                    "key": "Location",
+                    "value": "NA"
+                },
+                {
+                    "key": "source",
+                    "value": "NA"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Telephonic Round with HR",
+                            "value": [
+                                "1. Reason for Change?",
+								"2. Prefered Location?",
+								"3. Experience in C++.",
+								"4. Previous Compensation and what is the Expected Compensation."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1",
+                            "value": [
+								"Interview started with introduce yourself and then he asked me approach of some coding problem.",
+								"find the Kth largest element from an unsorted array.",
+								"Level order traversal of binary tree.",
+								"find triplet with sum equal to X.",
+								"Questions on C++ Concepts - Can the constructor be private?",
+								"I was able to solve both the problems so got to the next round"
+							]
+                        },
+						{
+                            "key": "Interview Round - 2",
+                            "value": [
+								"This interview was quite easy.",
+								"First he asked me about my Hobbies and then asked me some puzzle.",
+								"Then he asked me an easy level array question and then some OOPs concepts.",
+								"Then he asked me questions on c and c++",
+								"What is the difference between c and c++ and some i/o based on c++"
+							]
+                        },
+						{
+                            "key": "Interview Round - 3",
+                            "value": [
+								"Reverse the word in incoming stream",
+								"Given the coordinates of rectangle and a point p(x,y). check if Point p lies inside or outside the rectangle",
+								"Why do you want to switch?",
+								"Did any conflict happen during the project? How did you handle conflict?",
+								"Why do you want to join cadence over that(had offer from other org too)?"
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Amazon Interview Experience (Off-Campus) 2022",
+            "company": "Amazon",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "7 months"
+                },
+                {
+                    "key": "Position",
+                    "value": "SDE-1"
+                },
+                {
+                    "key": "Location",
+                    "value": "HYD"
+                },
+                {
+                    "key": "source",
+                    "value": "Off campus"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Online Assessment Test",
+                            "value": [
+                                "This round has 2 coding questions with time limit of 70 mins.",
+								"one question was easy-medium and other was hard.",
+								"to get through the next round you need to you need to get more that 80%.",
+								"I was able to solve first problem and was able to pass 8/10 test cases so got invite for the interview."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1(DSA)",
+                            "value": [
+								"Interview started with introduce yourself and then directly jumped to the coding questions.",
+								"<b>Question 1:</b> Check if the given BST is a sum tree",
+								"Had discussed about the optimized approach and its time complexity.",
+								"<b>Question 2:</b> Find the maximum sum subtree which is also a BST in a binary tree.  ",
+								"Again need to discuss the approach before implementation and need to discuss about the time complexity.",
+								"I was able to solve the problems within the given time so got invite for next round."
+							]
+                        },
+						{
+                            "key": "Interview Round - 2(DSA)",
+                            "value": [
+								"This interview was the advanced DSA round.",
+								"<b> Question 1: </b> You are given an integer array nums. ",
+								"You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.",
+								"Return true if you can reach the last index, or false otherwise.",
+								"Input: nums = [2,3,1,1,4]",
+								"Output: true",
+								"<b> Question 2: </b> Given two sorted arrays arr1 and arr2 of size n and m respectively, return the median of the two sorted arrays."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3 (Managerial)",
+                            "value": [
+								"We had a discussion on projects which i mentioned in my resume for around 30 minutes. He then asked me few behavioral questions:",
+								"Tell me about a time when you have delivered late? If yes what was the reason for the delay?",
+								"Why do you want to leave your current company?",
+								"Why Amazon?",
+								"Did any conflict happen during the project? How did you handle conflict?",
+								"Tell me about a time when you have exceeded expectations."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        },
+        {
+            "key": "Goldman Sachs | Bangalore | Associate Software Engineer",
+            "company": "Goldman Sachs",
+            "value": [
+                {
+                    "key": "Experience:",
+                    "value": "1 year"
+                },
+                {
+                    "key": "Position",
+                    "value": "ASE"
+                },
+                {
+                    "key": "Location",
+                    "value": "Bangalore"
+                },
+                {
+                    "key": "source",
+                    "value": "Off-campus"
+                },
+                {
+                    "key": "rounds",
+                    "value": [
+                        {
+                            "key": "Coderpad",
+                            "value": [
+                                "In this round there were 2 coding questions. One was medium and other was hard.",
+								"The total time given was 60 mins.",
+								"<b>Q1. </b> Search in Rotated Sorted Array",
+								"<b>Q2. </b> You are given an array of k linked lists, each linked list is sorted in non descending order.",
+								"Merge all the linked-lists into one sorted linked list and return it."
+							]
+                        },
+						{
+                            "key": "Interview Round - 1",
+                            "value": [
+								"Started with self introduction and then she asked me some DSA fundamentals.",
+								"1. Pillers of Object Oriented Programming.",
+								"2. Runtime polymorphism vs Compile time polymorphism?",
+								"3. Difference between array and linkedlist",
+								"4. Difference between array, arraylist and linkedlist.",
+								"5. how HaskMap and treeMap works and its implementation. and there was some other questions too.",
+								"After this she asked me a coding problem and asked to write the production ready code for that.",
+								"Q. You are given two strings str1 and str2 of lengths m and n respectively, return the minimum window substring",
+								"of str1 such that every character in str2 (including duplicates) is included in the window. If there is no such substring",
+								"return the empty string '' ",
+								"I was able to solve that so got invite for next round"
+							]
+                        },
+						{
+                            "key": "Interview Round - 2",
+                            "value": [
+								"this round started with some technical questions like...",
+								"1. What is garbage collection and heap memory works.",
+								"2. Asked about stack and its implementation in real world.",
+								"3. programming patterns while developing low latency trading systems, reading the heap dumps",
+								"4. Analysis of cpu and memory issues and debugging trading systems",
+								"And then we had discussion on my projects mentioned in resume."
+							]
+                        },
+						{
+                            "key": "Interview Round - 3",
+                            "value": [
+								"This round was based on previous experience and the kind of works I had done in my previous organization.",
+								"Like the what framework I had worked on.",
+								"Whta all programming languages I am familier with and will able to work.",
+								"Any other courses I had done or any certifications."
+							]
+                        },
+						{
+                            "key": "Interview Round - 4",
+                            "value": [
+								"This round was LLD round. he gave me some situation based questions and asked me to get the solution at that time.",
+								"Also asked me what architecture I would have used to ensure that the problems should be minimized during productions.",
+								"we had a long discussion on this and this interview went for more that 80 mins"
+							]
+                        },
+						{
+                            "key": "Interview Round - 5",
+                            "value": [
+								"In this round interviewer asked me some basic CS questions.",
+								"1. What is Operating system and types of OS.",
+								"2. what is semaphore and mutex and what is the difference between semaphore and mutex and their implementations and uses.",
+								"3. What is deadlock and how can we avoid it.",
+								"And then asked question on selection sort and merge sort and their time complexity.",
+								"After that any question for him."
+							]
+                        }
+                    ]
+                },
+                {
+                    "key": "verdict",
+                    "value": "Selected"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+
+{ 
+    "data": [
+        {
+            "title": "salesforce || SMTS || 2024",
+            "details": [
+                {"key": "org", "value": "Dream11"},
+                {"key": "Current Compensation", "value": "43 LPA(BASE), 27 lakh"},
+                {"key": "Year Of Experience", "value": "10 years"},
+                {"key": "Prior Experience", "value": "SDE-2, Amazon"},
+                {"key": "Title/Level", "value": "LMST"},
+                {"key": "Base Salary", "value": "55L"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Relocation Bonus", "value": "2.5L"},
+                {"key": "Stock Bonus", "value": "$120K stock grant to be vested over 4 years period"},
+                {"key": "Performance Bonus", "value": "15% (target) of Base Salary every year"},
+                {"key": "Total Compensation", "value": "~91L"}
+            ]
+        },
+        {
+            "title": "Dream11 || SDE-2 || 2024",
+            "details": [
+                {"key": "org", "value": "Dream11"},
+                {"key": "Education", "value": "<b>Btech from tier 2</b>"},
+                {"key": "Year Of Experience", "value": "6 years"},
+                {"key": "Prior Experience", "value": "Product based"},
+                {"key": "Title/Level", "value": "SDE-2"},
+                {"key": "Location", "value": "Mumbai"},
+                {"key": "Base Salary", "value": "55L"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Relocation Bonus", "value": "9L"},
+                {"key": "Stock Bonus", "value": "20L"},
+                {"key": "Performance Bonus", "value": "10 % of base salary"},
+                {"key": "Total Compensation", "value": "80L"}
+            ]
+        },
+        {
+            "title": "Microsoft || SDE-1 || 2023",
+            "details": [
+                {"key": "org", "value": "Microsoft"},
+                {"key": "Education", "value": "<b>IIT KGP</b>"},
+                {"key": "Year Of Experience", "value": "fresher"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Title/Level", "value": "SDE-1"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "13L"},
+                {"key": "Signing Bonus", "value": "5L"},
+                {"key": "Relocation Bonus", "value": "1.5L"},
+                {"key": "Stock Bonus", "value": "7.5L"},
+                {"key": "Performance Bonus", "value": "7L"},
+                {"key": "Total Compensation", "value": "35.0L"},
+                {"key": "Benefits", "value": "NA"},
+                {"key": "previous CTC", "value": "NA"}
+            ]
+        },
+        {
+            "title": "Amazon || SDE-1 || HYD || 2023",
+            "details": [
+                {"key": "Education", "value": "IIT Bombay"},
+                {"key": "Year Of Experience", "value": "1.6 year"},
+                {"key": "Prior Experience", "value": "Service Based Company"},
+                {"key": "Title/Level", "value": "SDE-1"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "<b>15L</b>"},
+                {"key": "Signing Bonus", "value": "9L"},
+                {"key": "Relocation Bonus", "value": "1.5L"},
+                {"key": "Stock Bonus", "value": "7L"},
+                {"key": "Performance Bonus", "value": "6L"},
+                {"key": "Total Compensation", "value": "37.5L"},
+                {"key": "Benefits", "value": "Cabs and other benefits"},
+                {"key": "previous CTC", "value": "10 LPA"}
+            ]
+        },
+        {
+            "title": "Infosys || Specialist Programmer || Bangalore || 1 YOE || 2023",
+            "details": [
+                {"key": "Education", "value": "BTech, tier 2"},
+                {"key": "Year Of Experience", "value": "2 year"},
+                {"key": "Prior Experience", "value": "startup"},
+                {"key": "Title/Level", "value": "SDET"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "15L"},
+                {"key": "Signing Bonus", "value": "1.2L"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "1L"},
+                {"key": "Total Compensation", "value": "17.2L"},
+                {"key": "Benefits", "value": "NA"},
+                {"key": "previous CTC", "value": "6 LPA"}
+            ]
+        },
+        {
+            "title": "Uber || Bangalore || L5-a || 2023 ",
+            "details": [
+                {"key": "Education", "value": "BTech from Tier 2 University"},
+                {"key": "Year Of Experience", "value": "7.5 year"},
+                {"key": "Prior Experience", "value": "Senior Developer in a startup."},
+                {"key": "Date of the Offer", "value": "May ,2023"},
+                {"key": "Company", "value": "Uber"},
+                {"key": "Title/Level", "value": "Senior Software Engineer"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "72L"},
+                {"key": "Signing Bonus", "value": "12L"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "200K USD over 4 years"},
+                {"key": "Performance Bonus", "value": "14 L minimum (2x maximum)"},
+                {"key": "Total Compensation", "value": "(Base + Minimum Bonus + Sign On + Stock): 72 + 14 + 12 + 42 = 140 L"},
+                {"key": "Benefits", "value": "Usual Uber Benefits (Uber Credits, 17% discount on any Uber order, etc..)"},
+                {"key": "previous CTC", "value": "66L Base + 22.5L pre-ipo paper money"}
+            ]
+        },
+        {
+            "title": "Paypal || SDE-1 || 2021",
+            "details": [
+                {"key": "Education", "value": "B.E. (Non-CS) from Tier 1 University"},
+                {"key": "Year Of Experience", "value": "fresher"},
+                {"key": "Prior Experience", "value": "Intern"},
+                {"key": "Date of the Offer", "value": "NA"},
+                {"key": "Company", "value": "PayPal"},
+                {"key": "Title/Level", "value": "SDE-1"},
+                {"key": "Location", "value": "NA"},
+                {"key": "Base Salary", "value": "15 LPA"},
+                {"key": "Signing Bonus", "value": "<b>7.5 L</b> (split into 2 installments)"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "$13 K ~= 10.4L"},
+                {"key": "Performance Bonus", "value": "1.5 L (5% Individual Performance of Base pay + 5% Company Performance of Base pay) Annually"},
+                {"key": "Total Compensation", "value": " Base pay + First sign-on bonus + Annual bonus + Stock bonus = 25.25 L"},
+                {"key": "Benefits", "value": "Cab to office"}
+            ]
+        },
+        {
+            "title": "inMobi || SDE-2 || 2023",
+            "details": [
+                {"key": "Education", "value": "B.Tech"},
+                {"key": "Year Of Experience", "value": "3.5 years"},
+                {"key": "Prior Experience", "value": "Startup"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "InMobi"},
+                {"key": "Title/Level", "value": "SDE-2"},
+                {"key": "Location", "value": "BLR"},
+                {"key": "Base Salary", "value": "28 L"},
+                {"key": "Signing Bonus", "value": "4 L"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "10 L splited over 4 years (25 % each year)"},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Total Compensation", "value": "34.5L"},
+                {"key": "previous CTC", "value": "22 LPA"}
+            ]
+        },
+        {
+            "title": "CommerceIQ || SDE-1 || Bangalore",
+            "details": [
+                {"key": "Education", "value": "B.Tech - CSE"},
+                {"key": "Year Of Experience", "value": "0 years"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "Jan 2022"},
+                {"key": "Company", "value": "CommerceIQ"},
+                {"key": "Title/Level", "value": "SDE-1"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "INR 19 Lakhs"},
+                {"key": "Signing Bonus", "value": "INR 2 Lakhs"},
+                {"key": "Relocation Bonus", "value": "INR 1 Lakh"},
+                {"key": "Stock Bonus", "value": "INR 8 Lakhs equally vested in 4 years"},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Total Compensation", "value": "<b>INR 29 Lakhs</b>"},
+                {"key": "Benefits", "value": "Hotel stay for first 10-12 days, INR 500 credits for Swiggy each Friday"},
+                {"key": "previous CTC", "value": "NA"}
+            ]
+        },
+        {
+            "title": "Ring Central || software engineer || Bengaluru",
+            "details": [
+                {"key": "Education", "value": "B.Tech - CSE"},
+                {"key": "Year Of Experience", "value": "0 years"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "NA"},
+                {"key": "Company", "value": "Ring Central"},
+                {"key": "Title/Level", "value": "SDE-1"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Base Salary", "value": "Rs. 21 L"},
+                {"key": "Signing Bonus", "value": "4 L"},
+                {"key": "Relocation Bonus", "value": "1 L"},
+                {"key": "Stock Bonus", "value": "$15K stock grant vested over 4 years"},
+                {"key": "Performance Bonus", "value": "based bonus up to 10% of salary every year"},
+                {"key": "Total Compensation", "value": "<b> 28.5 LPA</b>"},
+                {"key": "Benefits", "value": "Stipend for 6 months internship Rs. 50k per month"},
+                {"key": "previous CTC", "value": "NA"}
+            ]
+        },
+        {
+            "title": "Microsoft || SDE-2 || Hyd || 2023",
+            "details": [
+                {"key": "Education", "value": "B.Tech - tier 2 college"},
+                {"key": "Year Of Experience", "value": "7+ yrs"},
+                {"key": "Prior Experience", "value": "Startup"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "Microsoft"},
+                {"key": "Title/Level", "value": "SDE-2"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Fixed Salary", "value": "26 LPA"},
+                {"key": "Signing Bonus", "value": "2 LPA"},
+                {"key": "Relocation Bonus", "value": "1.5 Lakh"},
+                {"key": "Stock Bonus", "value": "$15K "},
+                {"key": "Performance Bonus", "value": "10 % of base salary"},
+                {"key": "Total Compensation", "value": "<b>42 LPA</b>"},
+                {"key": "Benefits", "value": "Standard Benefits"}
+            ]
+        },
+        {
+            "title": "Swym Technologies || (ASE) Associate Software Engineer (remote)",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science"},
+                {"key": "Year Of Experience", "value": "0 yrs"},
+                {"key": "Prior Experience", "value": "Interned at a small startup"},
+                {"key": "Date of the Offer", "value": "Fall 2024"},
+                {"key": "Company", "value": "Swym technologies"},
+                {"key": "Title/Level", "value": "ASE"},
+                {"key": "Location", "value": "Bengaluru, India (Remote job)"},
+                {"key": "Fixed Salary", "value": "15 LPA"},
+                {"key": "Signing Bonus", "value": "1.2 L"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "$24K stock grant vested over 4 years"},
+                {"key": "Performance Bonus", "value": "based bonus up to 10% of salary every year"},
+                {"key": "Total Compensation", "value": "<b>21.2 LPA</b>"},
+                {"key": "Benefits", "value": "Flexible work"}
+            ]
+        },
+        {
+            "title": "McAfee || SSE || Hyd",
+            "details": [
+                {"key": "Education", "value": "BTech from a Tier-3 university"},
+                {"key": "Year Of Experience", "value": "5 years"},
+                {"key": "Prior Experience", "value": "SSE at Service based company"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "McAfee"},
+                {"key": "Title/Level", "value": "SSE"},
+                {"key": "Location", "value": "Pune"},
+                {"key": "Fixed Salary", "value": "INR 26,00,000"},
+                {"key": "Signing Bonus", "value": " INR 1,00,000"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "NONE"},
+                {"key": "Performance Bonus", "value": "NONE"},
+                {"key": "Total Compensation", "value": "<b>INR 27,00,000 LPA</b>"}
+            ]
+        },
+        {
+            "title": "Google || SE || L3 || 2023",
+            "details": [
+                {"key": "Education", "value": "BTech CSE"},
+                {"key": "Year Of Experience", "value": "6 Years"},
+                {"key": "Prior Experience", "value": "Startup"},
+                {"key": "Date of the Offer", "value": "June 2023"},
+                {"key": "Company", "value": "Google"},
+                {"key": "Title/Level", "value": "L3"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Fixed Salary", "value": "20L"},
+                {"key": "Relocation Bonus/Signing Bonus", "value": "1.7L"},
+                {"key": "Stock Bonus", "value": "30L (Over 4 years)"},
+                {"key": "Benefits", "value": "Standard Google Benefits"},
+                {"key": "Total Compensation", "value": "<b>27.5L</b>"}
+            ]
+        },
+        {
+            "title": "Tesco || Bengaluru",
+            "details": [
+                {"key": "Education", "value": "BTech, CSE"},
+                {"key": "Year Of Experience", "value": "0 Years"},
+                {"key": "Date of the Offer", "value": "Fall 2024"},
+                {"key": "Company", "value": "Tesco"},
+                {"key": "Title/Level", "value": "Graduate SDE"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Fixed Salary", "value": "16.5 L"},
+                {"key": "Signing Bonus", "value": "3.5 L"},
+                {"key": "Performance Bonus", "value": "based bonus up to 10% of salary every year"},
+                {"key": "Total Compensation", "value": "<b>21 LPA</b>"}
+            ]
+        },
+        {
+            "title": "Intuit || SDE-1 || Bengaluru",
+            "details": [
+                {"key": "Education", "value": "BE in CS"},
+                {"key": "Year Of Experience", "value": "0 Years"},
+                {"key": "Prior Experience", "value": "Interned at Expedia"},
+                {"key": "Date of the Offer", "value": "Fall 2024"},
+                {"key": "Company", "value": "Intuit"},
+                {"key": "Title/Level", "value": "SDE-I"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Fixed Salary", "value": "22 LPA"},
+                {"key": "Signing Bonus", "value": "Rs. 3.5 L"},
+                {"key": "Stock Bonus", "value": "$23K stock grant vested over 3.5 years"},
+                {"key": "Performance Bonus", "value": "2.2 LPA"},
+                {"key": "Benefits", "value": "Stocks, Indicative amount base on current USD exchange rate, actual may vary based on prevailing rates on grant date."},
+                {"key": "Total Compensation", "value": "<b>Rs. 33 LPA</b>"}
+            ]
+        },
+        {
+            "title": "Amazon || USA || June 2023",
+            "details": [
+                {"key": "Education", "value": "Masters in Computer Science"},
+                {"key": "Year Of Experience", "value": "0 Years"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "June 2023"},
+                {"key": "Company", "value": "Amazon"},
+                {"key": "Title/Level", "value": "Software Development Engineer Intern"},
+                {"key": "Location", "value": "Seattle"},
+                {"key": "Fixed Salary", "value": "$129,000"},
+                {"key": "Signing Bonus", "value": "$8000"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Benefits", "value": "401K on 91st day after start date"},
+                {"key": "Total Compensation", "value": "<b>$129,000</b>"}
+            ]
+        },
+        {
+            "title": "Wipro || Software Engineer Experience || Programmer Analyst || Fresher || Pan India",
+            "details": [
+                {"key": "Education", "value": "B.tech from Tier 3"},
+                {"key": "Year Of Experience", "value": "0 Years"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "May 2023"},
+                {"key": "Company", "value": "Cognizant"},
+                {"key": "Title/Level", "value": "Programmer Analyst"},
+                {"key": "Location", "value": "Kolkata"},
+                {"key": "Fixed Salary", "value": "6.86LPA"},
+                {"key": "Signing Bonus", "value": "0"},
+                {"key": "Stock Bonus", "value": "20K"},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Benefits", "value": "Standard Benefits"},
+                {"key": "Total Compensation", "value": "<b>6.96 PA</b>"}
+            ]
+        },
+        {
+            "title": "OLA || SDE-1 || Bangalore",
+            "details": [
+                {"key": "Education", "value": "B.tech"},
+                {"key": "Year Of Experience", "value": "fresher"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "Ola Electric"},
+                {"key": "Title/Level", "value": "Software Development Engineer 1"},
+                {"key": "Location", "value": "Bangalore"},
+                {"key": "Fixed Salary", "value": "INR 15.5 Lakhs"},
+                {"key": "Signing Bonus", "value": "INR .5 Lakhs"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "INR 1.5 Lakhs"},
+                {"key": "Benefits", "value": "14 days stay"},
+                {"key": "Total Compensation", "value": "<b> INR 19.5 Lakhs </b>"}
+            ]
+        },
+        {
+            "title": "Urban Company || SDE || Bengaluru",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science and Engineering"},
+                {"key": "Year Of Experience", "value": "fresher"},
+                {"key": "Prior Experience", "value": "Interned at Akamai Technologies for the summer of 2023"},
+                {"key": "Date of the Offer", "value": "Fall 2024"},
+                {"key": "Company", "value": "Urban Company"},
+                {"key": "Title/Level", "value": "Software Dev. I"},
+                {"key": "Location", "value": "Bengaluru, India"},
+                {"key": "Fixed Salary", "value": "Rs. 15,00,000"},
+                {"key": "Relocation Bonus", "value": "Rs. 3,00,000"},
+                {"key": "Signing Bonus", "value": "Rs. 3,00,000"},
+                {"key": "Stock Bonus", "value": "Rs. 8,00,000/- stock grant vested over 3.5 years"},
+                {"key": "Performance Bonus", "value": "Performance-based bonus up to 10% of salary every year"},
+                {"key": "Benefits", "value": "Relocation, Meals in Office, Free UC services, Health Insurance, Life Insurance, Free doctor consultation (physical and mental health)"},
+                {"key": "Total Compensation", "value": "<b> ~Rs.23 LPA </b>"}
+            ]
+        },
+        {
+            "title": "MPL || SDET 2 ||Bengaluru",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science and Engineering"},
+                {"key": "Year Of Experience", "value": "7 years"},
+                {"key": "Prior Experience", "value": "Paypal"},
+                {"key": "Date of the Offer", "value": "2022"},
+                {"key": "Company", "value": "MPL"},
+                {"key": "Title/Level", "value": "SDET 2"},
+                {"key": "Location", "value": "Bengaluru, India"},
+                {"key": "Fixed Salary", "value": "26 lakh"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "esop 5 lakh"},
+                {"key": "Performance Bonus", "value": "Performance-based bonus up to 10% of salary every year"},
+                {"key": "Benefits", "value": "work hard party hard , free food"},
+                {"key": "Total Compensation", "value": "<b> ~31 LPA </b>"}
+            ]
+        },
+        {
+            "title": "Oracle || SE || fresher",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science and Engineering, Tier-1"},
+                {"key": "Year Of Experience", "value": "7 years"},
+                {"key": "Prior Experience", "value": "Paypal"},
+                {"key": "Date of the Offer", "value": "2022"},
+                {"key": "Company", "value": "MPL"},
+                {"key": "Title/Level", "value": "SDET 2"},
+                {"key": "Location", "value": "Bengaluru, India"},
+                {"key": "Fixed Salary", "value": "Rs. 17L"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "7 Lakhs JB (with 2 years claw back)"},
+                {"key": "Stock Bonus", "value": "USD 48k worth stocks invested over 4 years "},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Benefits", "value": "standard benefits"}
+            ]
+        },
+        {
+            "title": "Groww || SDE 1 || Bangalore",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science and Engineering"},
+                {"key": "Year Of Experience", "value": "2 years"},
+                {"key": "Prior Experience", "value": "Product based"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "ClearTrip"},
+                {"key": "Title/Level", "value": "Software Development Engineer-1"},
+                {"key": "Location", "value": "NA"},
+                {"key": "Fixed Salary", "value": "21,00000 (INR)"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "2,00000 (INR)"},
+                {"key": "Stock Bonus", "value": "3 Lakhs ESOPS vested over 4 years"},
+                {"key": "Performance Bonus", "value": "2 lakhs (can be up to 4 lakhs based on performance)"},
+                {"key": "Total Compensation", "value": "<b> ~ 25,00,000 </b>"},
+                {"key": "Benefits", "value": "Standard Groww benefits"}
+            ]
+        },
+        {
+            "title": "Oracle || SMTS (Senior Member Technical Staff) || BLR",
+            "details": [
+                {"key": "Education", "value": "BTech in Computer Science and Engineering"},
+                {"key": "Year Of Experience", "value": "5+ years"},
+                {"key": "Prior Experience", "value": "Product based"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "Oracle"},
+                {"key": "Title/Level", "value": "Senior Member Technical Staff"},
+                {"key": "Location", "value": "NA"},
+                {"key": "Fixed Salary", "value": "26,00000 (INR)"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "300 stock grant vested over 4 years"},
+                {"key": "Performance Bonus", "value": "2 lakhs (can be up to 4 lakhs based on performance)"},
+                {"key": "Total Compensation", "value": "<b> ~ 30L </b>"},
+                {"key": "Benefits", "value": "Standard Oracle benefits"}
+            ]
+        },
+        {
+            "title": "TCS || TCS Ninja || TCS Digital experience || Pan India || Fresher ",
+            "details": [
+                {"key": "Education", "value": "B.tech from Tier-3"},
+                {"key": "Year Of Experience", "value": "fresher"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "TCS"},
+                {"key": "Title/Level", "value": "SE"},
+                {"key": "Location", "value": "Kolkata"},
+                {"key": "Fixed Salary", "value": "7.2LPA"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "20K"},
+                {"key": "Total Compensation", "value": "<b> ~7.2 PA </b>"},
+                {"key": "Benefits", "value": "Standard benefits"}
+            ]
+        },
+        {
+            "title": "DE Shaw || On Campus || Internship + PPO ",
+            "details": [
+                {"key": "Education", "value": "B.Tech, CSE from Tier-1 College"},
+                {"key": "Year Of Experience", "value": "0 years"},
+                {"key": "Prior Experience", "value": "NA"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "DE SHAW"},
+                {"key": "Title/Level", "value": "Internship + PPO"},
+                {"key": "Location", "value": "Hyderabad"},
+                {"key": "Stipend", "value": "INR 1,50,000 per month"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "NA"}
+            ]
+        },
+        {
+            "title": "nike || senior software || frontend",
+            "details": [
+                {"key": "Education", "value": "MS in mechanical engineering"},
+                {"key": "Year Of Experience", "value": "2 years"},
+                {"key": "Prior Experience", "value": "small startup"},
+                {"key": "Date of the Offer", "value": "2023"},
+                {"key": "Company", "value": "Nike"},
+                {"key": "Title/Level", "value": "Senior Software Engineer"},
+                {"key": "Location", "value": "Beaverton"},
+                {"key": "Fixed Salary", "value": "$130,000"},
+                {"key": "Relocation Bonus", "value": "NA"},
+                {"key": "Signing Bonus", "value": "NA"},
+                {"key": "Stock Bonus", "value": "NA"},
+                {"key": "Performance Bonus", "value": "NA"},
+                {"key": "Total Compensation", "value": "<b> $130,000 </b>"},
+                {"key": "Benefits", "value": "15 days vacation, health/vision/dental"}
+            ]
+        }
+        
+    ]
+
+}

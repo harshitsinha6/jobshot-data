@@ -1,0 +1,80 @@
+{
+    "data": 
+    [
+        {
+            "topic": "who was Susan Wojcicki?",
+            "mdfilepath":"assets/mdfiles/friendshipday.md",
+            "highlight": "Susan Wojcicki is an American business executive best known for her role as the CEO of YouTube. In February 2014, Wojcicki was appointed CEO of YouTube. Under her leadership, YouTube expanded significantly, becoming the world’s leading video-sharing platform. She focused on growing YouTube’s user base, increasing the platform’s revenue through advertising and subscription services, and addressing issues related to content moderation and creator support."
+        },
+        {
+            "topic": "Unveiling the Magic: A Look into Sora, the AI Video Generator",
+            "mdfilepath":"assets/mdfiles/sora.md",
+            "highlight": "Unveiling the Magic: A Look into Sora, the AI Video Generator. Imagine a world where your wildest visual ideas can be brought to life with just a few words. That's the potential that Sora, a powerful new tool from OpenAI, unlocks. Sora is a text-to-video generative model. This means you can feed it a written description, and it will churn out a short video clip (up to a minute) that corresponds to your prompt. The results can be stunningly realistic, detailed, and even a little surreal."
+        },
+        {
+            "topic": "Crafting Your Path: A Guide to Writing a High-Quality Resume for Working Professionals",
+            "mdfilepath":"assets/mdfiles/resume_guide.md",
+            "highlight": "In the competitive landscape of job hunting, your resume serves as your first impression to potential employers. It’s your chance to showcase your skills, experiences, and achievements in a way that captivates recruiters and compels them to learn more about you."
+        },
+        {
+            "topic": "Most Asked Interview Questions with Answer on AWS.",
+            "mdfilepath":"assets/mdfiles/awsqa.md",
+            "highlight": "Amazon Web Services (AWS) is a leading cloud computing platform, and proficiency in AWS services is highly sought after in the tech industry. Whether you're a beginner or an experienced professional, preparing for an AWS interview requires a solid understanding of key concepts and the ability to articulate your knowledge effectively. In this guide, we'll cover the most commonly asked interview questions on AWS, along with detailed explanations and examples."
+        },
+        {
+            "topic": "Building an AWS API Gateway for Your Application Using CloudFormation Templates",
+            "mdfilepath":"assets/mdfiles/aws-apigateway.md",
+            "highlight": "AWS API Gateway provides a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. By leveraging CloudFormation Templates (CFT), you can automate the process of provisioning and configuring your API Gateway resources, ensuring consistency and repeatability across different environments. In this guide, we'll walk through the steps to build an AWS API Gateway for your application using CFT.            "
+        },
+        {
+            "topic": "Introduction to Machine Learning: Basic Concepts and Applications",
+            "mdfilepath":"assets/mdfiles/machinelearning.md",
+            "highlight": "Machine Learning (ML) is a rapidly growing field that empowers computers to learn from data and improve over time without explicit programming. In this comprehensive guide, we'll explore the fundamental concepts of machine learning, its various types, popular algorithms, and real-world applications."
+        },
+        {
+            "topic": "Getting Started with Docker: Containerization Simplified",
+            "mdfilepath":"assets/mdfiles/docker.md",
+            "highlight": "In the world of software development, containerization has emerged as a game-changer, streamlining the process of building, shipping, and deploying applications. Docker, the leading containerization platform, has revolutionized how developers create, package, and run applications in isolated environments known as containers. In this comprehensive guide, we'll explore the fundamentals of Docker and provide step-by-step instructions for getting started with containerization."
+        },
+        {
+            "topic": "Building Your First Web Application with React.js",
+            "mdfilepath":"assets/mdfiles/react.md",
+            "highlight": "React.js has become one of the most popular JavaScript libraries for building user interfaces, known for its simplicity, efficiency, and flexibility. Whether you're a beginner or an experienced developer, creating your first web application with React.js can be an exciting and rewarding journey. In this comprehensive guide, we'll walk you through the process of building your first React.js web application"
+        },
+        {
+            "topic": "Understanding Cybersecurity: Best Practices for Protecting Your Data",
+            "mdfilepath":"assets/mdfiles/cybersecurity.md",
+            "highlight": "Cybersecurity is an increasingly critical concern in today's digital age, with cyber threats evolving and becoming more sophisticated. Protecting your data and sensitive information from unauthorized access, data breaches, and cyber attacks is paramount to safeguarding your personal privacy and the security of your organization."
+        },
+        {
+            "topic": "Demystifying Blockchain Technology: Applications and Use Cases",
+            "mdfilepath":"assets/mdfiles/blockchain.md",
+            "highlight": "Blockchain technology has emerged as one of the most transformative innovations of the 21st century, revolutionizing various industries and redefining the way we conduct transactions, manage data, and establish trust in digital environments. While often associated with cryptocurrencies like Bitcoin, blockchain has far-reaching implications beyond finance, with applications spanning supply chain management, healthcare, voting systems, and more."
+        },
+        {
+            "topic": "An Introduction to Cloud Computing: Benefits and Providers",
+            "mdfilepath":"assets/mdfiles/cloudcomputing.md",
+            "highlight": "Cloud computing has emerged as a cornerstone of modern technology infrastructure, revolutionizing the way businesses and individuals store, manage, and access data and applications. By leveraging the power of remote servers and networks, cloud computing offers unparalleled scalability, flexibility, and cost-efficiency compared to traditional on-premises infrastructure. "
+        },
+        {
+            "topic": "Mastering Data Analytics: Tools and Techniques for Business Insights",
+            "mdfilepath":"assets/mdfiles/dataanalytics.md",
+            "highlight": "Data analytics has become an indispensable tool for businesses seeking to gain valuable insights from their data and make informed decisions. In today's data-driven world, organizations can leverage a variety of tools and techniques to analyze large volumes of data, uncover patterns, trends, and correlations, and derive actionable insights to drive growth and innovation."
+        },
+        {
+            "topic": "The Future of Artificial Intelligence: Trends and Innovations",
+            "mdfilepath":"assets/mdfiles/futureAI.md",
+            "highlight": "Artificial Intelligence (AI) has rapidly transformed from a concept of science fiction to a pervasive force driving innovation across industries. With advancements in machine learning, deep learning, and natural language processing, AI is poised to revolutionize various aspects of our lives, from healthcare and finance to transportation and entertainment."
+        },
+        {
+            "topic": "Best Practices for Mobile App Development: Tips for Success",
+            "mdfilepath":"assets/mdfiles/mobileappdev.md",
+            "highlight": "Mobile applications have become an integral part of our daily lives, offering convenience, efficiency, and entertainment at our fingertips. With the proliferation of smartphones and tablets, the demand for innovative and user-friendly mobile apps continues to soar. However, developing a successful mobile app requires careful planning, execution, and adherence to best practices"
+        },
+        {
+            "topic": "Navigating the World of IoT: Applications and Challenges",
+            "mdfilepath":"assets/mdfiles/iot.md",
+            "highlight": "The Internet of Things (IoT) has emerged as a transformative force, connecting billions of devices and enabling a new era of digital innovation. From smart homes and cities to industrial automation and healthcare, IoT technologies are reshaping industries, enhancing efficiency, and improving quality of life."
+        }
+    ]
+}
